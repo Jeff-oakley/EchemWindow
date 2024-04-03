@@ -1,0 +1,3716 @@
+[
+    {
+        "composition": "Li3YMgO4",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; LiMg; Li2O"
+    },
+    {
+        "composition": "Li13Y5Mg2O16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; LiMg; Li2O"
+    },
+    {
+        "composition": "Li17YMg6O16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; LiMg; Li2O"
+    },
+    {
+        "composition": "Li9YMg2O8",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; LiMg; Li2O"
+    },
+    {
+        "composition": "Li5Y3MgO8",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; LiMg; Li2O"
+    },
+    {
+        "composition": "Li8Nb3Ga3O16",
+        "V_min": "1.743564742083329V",
+        "V_max": "3.60465775733333V",
+        "decomposition_products": "LiGaO2; LiNbO2; Li3NbO4"
+    },
+    {
+        "composition": "Li12NbGa5O16",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li8Nb2O9; Li5GaO4; Ga"
+    },
+    {
+        "composition": "Li7Nb2Ga5O16",
+        "V_min": "1.743564742083329V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "LiGaO2; LiNbO2; Li3NbO4"
+    },
+    {
+        "composition": "Li6NbGa7O16",
+        "V_min": "1.9222233539583307V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "LiGaO2; LiNbO2"
+    },
+    {
+        "composition": "Li8Hf3Ti3O16",
+        "V_min": "0.9887182208333305V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "LiTiO2; Li2TiO3; Li2HfO3"
+    },
+    {
+        "composition": "Li3CaLaO4",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li13Ca2La5O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li5CaLa3O8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li9Ca2LaO8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li17Ca6LaO16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li3MgScO4",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; LiScO2"
+    },
+    {
+        "composition": "Li13Mg2Sc5O16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; LiScO2"
+    },
+    {
+        "composition": "Li5MgSc3O8",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; LiScO2"
+    },
+    {
+        "composition": "Li17Mg6ScO16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; LiScO2"
+    },
+    {
+        "composition": "Li9Mg2ScO8",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; LiScO2"
+    },
+    {
+        "composition": "Li8Zr3Sn3O16",
+        "V_min": "1.7633017339583372V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Li2ZrO3; Li2SnO3; Sn"
+    },
+    {
+        "composition": "Li21La17(MoO12)4",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; Mo"
+    },
+    {
+        "composition": "Li4La2MoO8",
+        "V_min": "1.3840826383333316V",
+        "V_max": "3.2475678278666713V",
+        "decomposition_products": "Li2O; La2O3; Mo"
+    },
+    {
+        "composition": "Li9La11MoO24",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; Mo"
+    },
+    {
+        "composition": "Li18La8MoO24",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; Mo"
+    },
+    {
+        "composition": "Li39Ca16Nb5O48",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; CaO"
+    },
+    {
+        "composition": "Li33Ca14Nb7O48",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; CaO"
+    },
+    {
+        "composition": "Li5Ca3NbO8",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; CaO"
+    },
+    {
+        "composition": "Li9Ca5NbO12",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; CaO"
+    },
+    {
+        "composition": "Li18Ca5Nb4O24",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; CaO"
+    },
+    {
+        "composition": "Li9Ca7Nb5O24",
+        "V_min": "1.1357584204166533V",
+        "V_max": "3.2804943857777698V",
+        "decomposition_products": "Li3NbO4; LiNbO2; CaO"
+    },
+    {
+        "composition": "Li4CaNb2O8",
+        "V_min": "1.4895688104166724V",
+        "V_max": "3.4691932604444453V",
+        "decomposition_products": "Ca4Nb2O9; Li3NbO4; LiNbO2"
+    },
+    {
+        "composition": "Li21Ca10Nb11O48",
+        "V_min": "1.1357584204166533V",
+        "V_max": "3.2804943857777698V",
+        "decomposition_products": "Li3NbO4; LiNbO2; CaO"
+    },
+    {
+        "composition": "Li7Ca2NbO8",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; CaO"
+    },
+    {
+        "composition": "Li27Ca8NbO24",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; CaO"
+    },
+    {
+        "composition": "Li51Ca20NbO48",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; CaO"
+    },
+    {
+        "composition": "Li3HfSc3O8",
+        "V_min": "0.42936696427083354V",
+        "V_max": "3.43085505V",
+        "decomposition_products": "Li2HfO3; LiScO2; Hf"
+    },
+    {
+        "composition": "Li7Hf4Sc3O16",
+        "V_min": "0.46665014395833526V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "Li2HfO3; Sc2O3; Hf"
+    },
+    {
+        "composition": "Li6HfSc2O8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li22La7Ga7O32",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; La2O3; Ga"
+    },
+    {
+        "composition": "Li14La3Ga3O16",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; La2O3; Ga"
+    },
+    {
+        "composition": "Li22Ca7Sn7O32",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; CaO; Sn"
+    },
+    {
+        "composition": "Li26Ca9Sn5O32",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; CaO; Sn"
+    },
+    {
+        "composition": "Li6Ca(SnO4)2",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; CaO; Sn"
+    },
+    {
+        "composition": "Li6Ca3Sn5O16",
+        "V_min": "1.728181388333333V",
+        "V_max": "3.345686778666665V",
+        "decomposition_products": "Ca2SnO4; Li2SnO3; Sn"
+    },
+    {
+        "composition": "Li10Ca5Sn3O16",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; CaO; Sn"
+    },
+    {
+        "composition": "Li6Ca3SnO8",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; CaO; Sn"
+    },
+    {
+        "composition": "Li14Ca3Sn3O16",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; CaO; Sn"
+    },
+    {
+        "composition": "Li14Ca3Sn11O32",
+        "V_min": "1.8916974820833514V",
+        "V_max": "3.442988122666674V",
+        "decomposition_products": "CaSnO3; Li2SnO3; SnO"
+    },
+    {
+        "composition": "Li18Ca5SnO16",
+        "V_min": "1.2409193795833333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Sn"
+    },
+    {
+        "composition": "Li34Ca13SnO32",
+        "V_min": "1.2409193795833333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Sn"
+    },
+    {
+        "composition": "Li14Mg3Zr11O32",
+        "V_min": "0.5860697418333369V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Zr3O; Li2ZrO3; MgO"
+    },
+    {
+        "composition": "Li34Mg13ZrO32",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li6Zr2O7; Li2O; LiMg"
+    },
+    {
+        "composition": "Li14Mg3Zr3O16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li6Zr2O7; Li2O; LiMg"
+    },
+    {
+        "composition": "Li6Mg3Zr5O16",
+        "V_min": "0.5860697418333369V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Zr3O; Li2ZrO3; MgO"
+    },
+    {
+        "composition": "Li10Mg5Zr3O16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li6Zr2O7; Li2O; LiMg"
+    },
+    {
+        "composition": "Li18Mg5ZrO16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li6Zr2O7; Li2O; LiMg"
+    },
+    {
+        "composition": "Li22Mg7Zr7O32",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li6Zr2O7; Li2O; LiMg"
+    },
+    {
+        "composition": "Li6Mg3ZrO8",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li6Zr2O7; Li2O; LiMg"
+    },
+    {
+        "composition": "Li26Mg9Zr5O32",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li6Zr2O7; Li2O; LiMg"
+    },
+    {
+        "composition": "Li6MgZr2O8",
+        "V_min": "0.06598563333333263V",
+        "V_max": "3.1983148083333184V",
+        "decomposition_products": "Li6Zr2O7; Li2O; LiMg"
+    },
+    {
+        "composition": "Li28Mg17Te11O64",
+        "V_min": "2.4798268270833335V",
+        "V_max": "3.4434676079999997V",
+        "decomposition_products": "Li2TeO3; Li4TeO5; MgO"
+    },
+    {
+        "composition": "Li28Mg9Te3O32",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; MgO"
+    },
+    {
+        "composition": "Li8Mg3Te3O16",
+        "V_min": "2.4798268270833335V",
+        "V_max": "3.687030725333334V",
+        "decomposition_products": "Li2TeO3; Li4TeO5; MgO"
+    },
+    {
+        "composition": "Li36Mg11TeO32",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; MgO"
+    },
+    {
+        "composition": "Li52Mg23Te5O64",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; MgO"
+    },
+    {
+        "composition": "Li44Mg21Te7O64",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; MgO"
+    },
+    {
+        "composition": "Li68Mg27TeO64",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; MgO"
+    },
+    {
+        "composition": "Li12Mg11Te5O32",
+        "V_min": "2.4798268270833335V",
+        "V_max": "3.4434676079999997V",
+        "decomposition_products": "Li2TeO3; Li4TeO5; MgO"
+    },
+    {
+        "composition": "Li6Mg2TeO8",
+        "V_min": "1.6296200023684204V",
+        "V_max": "3.303614425333331V",
+        "decomposition_products": "Li2O; LiTe3; MgO"
+    },
+    {
+        "composition": "Li12Mg7TeO16",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; MgO"
+    },
+    {
+        "composition": "Li20Mg13Te3O32",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; MgO"
+    },
+    {
+        "composition": "Li6La2TiO8",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; Ti3O; La2O3"
+    },
+    {
+        "composition": "Li3La3TiO8",
+        "V_min": "0.45270798708332616V",
+        "V_max": "3.1512510502083337V",
+        "decomposition_products": "LiTiO2; Li4TiO4; La2O3"
+    },
+    {
+        "composition": "Li7La3Ti4O16",
+        "V_min": "0.5018778033333244V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "LiTiO2; Li4TiO4; La2TiO5"
+    },
+    {
+        "composition": "Li3ZrIn3O8",
+        "V_min": "1.5960202716666652V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "LiInO2; Li2ZrO3; In"
+    },
+    {
+        "composition": "Li7Zr4In3O16",
+        "V_min": "1.736001786666668V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Li2ZrO3; In2O3; In"
+    },
+    {
+        "composition": "Li6ZrIn2O8",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; Li6Zr2O7; In"
+    },
+    {
+        "composition": "Li18In8TeO24",
+        "V_min": "1.6409830070833318V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiInO2; LiInTe2"
+    },
+    {
+        "composition": "Li9In11TeO24",
+        "V_min": "1.9862267495833306V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "LiInO2; Li2TeO3; In2O3"
+    },
+    {
+        "composition": "Li21In17(TeO12)4",
+        "V_min": "2.2176021095833276V",
+        "V_max": "3.303614425333331V",
+        "decomposition_products": "Li6TeO6; Li2TeO3; In2O3"
+    },
+    {
+        "composition": "Li4In2TeO8",
+        "V_min": "2.2176021095833276V",
+        "V_max": "3.6433169026666654V",
+        "decomposition_products": "Li6TeO6; Li2TeO3; In2O3"
+    },
+    {
+        "composition": "Li7Ga3(SnO4)4",
+        "V_min": "1.984331932708334V",
+        "V_max": "3.4907850719999987V",
+        "decomposition_products": "Sn5O6; LiGaO2; Li2SnO3"
+    },
+    {
+        "composition": "Li6Ga2SnO8",
+        "V_min": "1.4065013173958334V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; Sn"
+    },
+    {
+        "composition": "Li3Ga3SnO8",
+        "V_min": "1.984331932708334V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "Sn5O6; LiGaO2; Li2SnO3"
+    },
+    {
+        "composition": "Li22Sc7In7O32",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiScO2; Li2O; In"
+    },
+    {
+        "composition": "Li14Sc3In3O16",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiScO2; Li2O; In"
+    },
+    {
+        "composition": "Li7Ga3O8",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; Ga"
+    },
+    {
+        "composition": "Li11Ga7O16",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; Ga"
+    },
+    {
+        "composition": "Li4CaZnO4",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; CaO; Zn"
+    },
+    {
+        "composition": "Li5CaGa3O8",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; CaO; Ga"
+    },
+    {
+        "composition": "Li17Ca6GaO16",
+        "V_min": "0.8580861708333332V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Ga"
+    },
+    {
+        "composition": "Li3CaGaO4",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; CaO; Ga"
+    },
+    {
+        "composition": "Li13Ca2Ga5O16",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; CaO; Ga"
+    },
+    {
+        "composition": "Li9Ca2GaO8",
+        "V_min": "0.8580861708333332V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Ga"
+    },
+    {
+        "composition": "Li21Ga17(WO12)4",
+        "V_min": "2.4182070870833314V",
+        "V_max": "3.7952269433333363V",
+        "decomposition_products": "Li2WO4; LiGaO2; WO2"
+    },
+    {
+        "composition": "Li4Ga2WO8",
+        "V_min": "2.082247419999999V",
+        "V_max": "3.7952269433333363V",
+        "decomposition_products": "Li4WO5; LiGaO2; W"
+    },
+    {
+        "composition": "Li18Ga8WO24",
+        "V_min": "1.3194887293749982V",
+        "V_max": "3.024368199583332V",
+        "decomposition_products": "Li5GaO4; LiGaO2; W"
+    },
+    {
+        "composition": "Li9Ga11WO24",
+        "V_min": "2.4182070870833314V",
+        "V_max": "3.7952269433333363V",
+        "decomposition_products": "LiGaO2; WO2"
+    },
+    {
+        "composition": "Li12Mg11Mo5O32",
+        "V_min": "1.8456853983333368V",
+        "V_max": "3.3213608386666724V",
+        "decomposition_products": "Li2MoO3; Li4MoO5; MgO"
+    },
+    {
+        "composition": "Li28Mg17Mo11O64",
+        "V_min": "1.8456853983333368V",
+        "V_max": "3.3213608386666724V",
+        "decomposition_products": "Li2MoO3; Li4MoO5; MgO"
+    },
+    {
+        "composition": "Li36Mg11MoO32",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Mo"
+    },
+    {
+        "composition": "Li12Mg7MoO16",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Mo"
+    },
+    {
+        "composition": "Li20Mg13Mo3O32",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Mo"
+    },
+    {
+        "composition": "Li8Mg3Mo3O16",
+        "V_min": "1.8456853983333368V",
+        "V_max": "3.3213608386666724V",
+        "decomposition_products": "Li2MoO3; Li4MoO5; MgO"
+    },
+    {
+        "composition": "Li28Mg9Mo3O32",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Mo"
+    },
+    {
+        "composition": "Li68Mg27MoO64",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Mo"
+    },
+    {
+        "composition": "Li6Mg2MoO8",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Mo"
+    },
+    {
+        "composition": "Li44Mg21Mo7O64",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Mo"
+    },
+    {
+        "composition": "Li52Mg23Mo5O64",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Mo"
+    },
+    {
+        "composition": "Li6Y2HfO8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li7Y3Hf4O16",
+        "V_min": "0.46665014395833526V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "Li2HfO3; Y2O3; Hf"
+    },
+    {
+        "composition": "Li3Y3HfO8",
+        "V_min": "-0.0V",
+        "V_max": "3.1747553183333235V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li22Y7In7O32",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; Li2O; In"
+    },
+    {
+        "composition": "Li14Y3In3O16",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; Li2O; In"
+    },
+    {
+        "composition": "Li14La3Y3O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li22La7Y7O32",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li18In8MoO24",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiInO2; Li2O; Mo"
+    },
+    {
+        "composition": "Li21In17(MoO12)4",
+        "V_min": "1.663820796666663V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "LiInO2; Li4MoO5; Mo"
+    },
+    {
+        "composition": "Li4In2MoO8",
+        "V_min": "1.663820796666663V",
+        "V_max": "3.3213608386666724V",
+        "decomposition_products": "LiInO2; Li4MoO5; Mo"
+    },
+    {
+        "composition": "Li9In11MoO24",
+        "V_min": "1.663820796666663V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "LiInO2; Li4MoO5; Mo"
+    },
+    {
+        "composition": "Li14Mg3Ti3O16",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Ti3O; Li2O; MgO"
+    },
+    {
+        "composition": "Li26Mg9Ti5O32",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Ti3O; Li2O; MgO"
+    },
+    {
+        "composition": "Li6MgTi2O8",
+        "V_min": "0.5018778033333244V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "LiTiO2; Li4TiO4; MgO"
+    },
+    {
+        "composition": "Li22Mg7Ti7O32",
+        "V_min": "0.5018778033333244V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "LiTiO2; Li4TiO4; MgO"
+    },
+    {
+        "composition": "Li10Mg5Ti3O16",
+        "V_min": "0.5018778033333244V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "LiTiO2; Li4TiO4; MgO"
+    },
+    {
+        "composition": "Li6Mg3Ti5O16",
+        "V_min": "1.2876477033333533V",
+        "V_max": "3.5697926266666755V",
+        "decomposition_products": "Li2TiO3; Mg2TiO4; LiTi2O4"
+    },
+    {
+        "composition": "Li6Mg3TiO8",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Ti3O; Li2O; MgO"
+    },
+    {
+        "composition": "Li14Mg3Ti11O32",
+        "V_min": "1.5082729533333195V",
+        "V_max": "3.628626026666665V",
+        "decomposition_products": "Li2TiO3; LiTi2O4; MgTiO3"
+    },
+    {
+        "composition": "Li34Mg13TiO32",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Ti3O; Li2O; MgO"
+    },
+    {
+        "composition": "Li18Mg5TiO16",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Ti3O; Li2O; MgO"
+    },
+    {
+        "composition": "Li3TiIn3O8",
+        "V_min": "1.5960202716666652V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "Li2TiO3; LiInO2; In"
+    },
+    {
+        "composition": "Li7Ti4In3O16",
+        "V_min": "2.029186634166668V",
+        "V_max": "3.6833917506666687V",
+        "decomposition_products": "Li2TiO3; In2O3; In"
+    },
+    {
+        "composition": "Li6TiIn2O8",
+        "V_min": "1.3722297449999996V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "Li2O; Li4TiO4; In"
+    },
+    {
+        "composition": "Li3La3ZrO8",
+        "V_min": "0.046471454833332926V",
+        "V_max": "3.149421507083333V",
+        "decomposition_products": "Zr3O; Li2O; La2O3"
+    },
+    {
+        "composition": "Li7La3Zr4O16",
+        "V_min": "0.2981912816458332V",
+        "V_max": "3.149421507083333V",
+        "decomposition_products": "Li6Zr2O7; Zr3O; La2O3"
+    },
+    {
+        "composition": "Li6La2ZrO8",
+        "V_min": "0.046471454833332926V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Zr3O; Li2O; La2O3"
+    },
+    {
+        "composition": "Li18La8TeO24",
+        "V_min": "1.6425613100520826V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "La2TeO2; Li2O; La2O3"
+    },
+    {
+        "composition": "Li9La11TeO24",
+        "V_min": "1.6425613100520826V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "La2TeO2; Li2O; La2O3"
+    },
+    {
+        "composition": "Li4La2TeO8",
+        "V_min": "2.2176021095833276V",
+        "V_max": "3.311790637000003V",
+        "decomposition_products": "Li2TeO3; Li6TeO6; La2O3"
+    },
+    {
+        "composition": "Li21La17(TeO12)4",
+        "V_min": "2.2176021095833276V",
+        "V_max": "3.303614425333331V",
+        "decomposition_products": "Li2TeO3; Li6TeO6; La2O3"
+    },
+    {
+        "composition": "Li27Ca8TaO24",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Ta"
+    },
+    {
+        "composition": "Li21Ca10Ta11O48",
+        "V_min": "0.710073118833322V",
+        "V_max": "3.2583307613333243V",
+        "decomposition_products": "Li3TaO4; CaO; Ta"
+    },
+    {
+        "composition": "Li4CaTa2O8",
+        "V_min": "1.0508008052333275V",
+        "V_max": "3.4854825522666584V",
+        "decomposition_products": "Li3TaO4; Ca4Ta2O9; Ta"
+    },
+    {
+        "composition": "Li5Ca3TaO8",
+        "V_min": "0.34550495133333103V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li2O; CaO; Ta"
+    },
+    {
+        "composition": "Li9Ca7Ta5O24",
+        "V_min": "0.710073118833322V",
+        "V_max": "3.2583307613333243V",
+        "decomposition_products": "Li3TaO4; CaO; Ta"
+    },
+    {
+        "composition": "Li9Ca5TaO12",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Ta"
+    },
+    {
+        "composition": "Li18Ca5Ta4O24",
+        "V_min": "0.5482291488333415V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li5TaO5; CaO; Ta"
+    },
+    {
+        "composition": "Li51Ca20TaO48",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Ta"
+    },
+    {
+        "composition": "Li7Ca2TaO8",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Ta"
+    },
+    {
+        "composition": "Li33Ca14Ta7O48",
+        "V_min": "0.5482291488333415V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li5TaO5; CaO; Ta"
+    },
+    {
+        "composition": "Li39Ca16Ta5O48",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Ta"
+    },
+    {
+        "composition": "Li18Y8WO24",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; Li2O; W"
+    },
+    {
+        "composition": "Li21Y17(WO12)4",
+        "V_min": "1.2241401418749966V",
+        "V_max": "2.9099498945833275V",
+        "decomposition_products": "LiYO2; Li4WO5; W"
+    },
+    {
+        "composition": "Li4Y2WO8",
+        "V_min": "1.2241401418749966V",
+        "V_max": "3.358366427000008V",
+        "decomposition_products": "LiYO2; Li4WO5; W"
+    },
+    {
+        "composition": "Li9Y11WO24",
+        "V_min": "1.2241401418749966V",
+        "V_max": "2.9099498945833275V",
+        "decomposition_products": "LiYO2; Li4WO5; W"
+    },
+    {
+        "composition": "Li4Hf3O8",
+        "V_min": "0.46665014395833526V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "Li2HfO3; Hf"
+    },
+    {
+        "composition": "Li7Zn2SbO8",
+        "V_min": "1.46718144079762V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li5SbO5; ZnSb"
+    },
+    {
+        "composition": "Li18Zn5(SbO6)4",
+        "V_min": "1.6344746833333372V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li5SbO5; ZnO; Sb"
+    },
+    {
+        "composition": "Li9Zn7Sb5O24",
+        "V_min": "2.2495402058333323V",
+        "V_max": "3.540435808V",
+        "decomposition_products": "Li3SbO4; ZnO; LiSbO2"
+    },
+    {
+        "composition": "Li39Zn16Sb5O48",
+        "V_min": "1.46718144079762V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li5SbO5; ZnSb"
+    },
+    {
+        "composition": "Li21Zn10Sb11O48",
+        "V_min": "2.2495402058333323V",
+        "V_max": "3.540435808V",
+        "decomposition_products": "Li3SbO4; ZnO; LiSbO2"
+    },
+    {
+        "composition": "Li4Zn(SbO4)2",
+        "V_min": "2.2495402058333323V",
+        "V_max": "3.540435808V",
+        "decomposition_products": "Li3SbO4; ZnO; LiSbO2"
+    },
+    {
+        "composition": "Li33Zn14Sb7O48",
+        "V_min": "1.6344746833333372V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li5SbO5; ZnO; Sb"
+    },
+    {
+        "composition": "Li9Zn5SbO12",
+        "V_min": "1.46718144079762V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li5SbO5; ZnSb"
+    },
+    {
+        "composition": "Li5Zn3SbO8",
+        "V_min": "1.46718144079762V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li10Zn4O9; Li5SbO5; ZnSb"
+    },
+    {
+        "composition": "Li51Zn20SbO48",
+        "V_min": "1.46718144079762V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li5SbO5; ZnSb"
+    },
+    {
+        "composition": "Li27Zn8SbO24",
+        "V_min": "1.4238884250425141V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; Li10Zn4O9; ZnSb"
+    },
+    {
+        "composition": "Li7Ta2Ga5O16",
+        "V_min": "1.6101551299999965V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "LiGaO2; Li3TaO4; Ga"
+    },
+    {
+        "composition": "Li6TaGa7O16",
+        "V_min": "1.892502459166663V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "LiGaO2; LiTaO3; Ga"
+    },
+    {
+        "composition": "Li8Ta3Ga3O16",
+        "V_min": "1.6101551299999965V",
+        "V_max": "3.5693490799999994V",
+        "decomposition_products": "LiGaO2; Li3TaO4; Ga"
+    },
+    {
+        "composition": "Li12TaGa5O16",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583332V",
+        "decomposition_products": "Li5TaO5; Li5GaO4; Ga"
+    },
+    {
+        "composition": "Li5NbZn3O8",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li8Nb2O9; Zn"
+    },
+    {
+        "composition": "Li9NbZn5O12",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li8Nb2O9; Zn"
+    },
+    {
+        "composition": "Li27NbZn8O24",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; Li8Nb2O9; Zn"
+    },
+    {
+        "composition": "Li7NbZn2O8",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li8Nb2O9; Zn"
+    },
+    {
+        "composition": "Li4Nb2ZnO8",
+        "V_min": "1.8286938970833309V",
+        "V_max": "3.60465775733333V",
+        "decomposition_products": "Li3NbO4; Zn"
+    },
+    {
+        "composition": "Li51NbZn20O48",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li8Nb2O9; Zn"
+    },
+    {
+        "composition": "Li21Nb11Zn10O48",
+        "V_min": "1.8286938970833309V",
+        "V_max": "3.60465775733333V",
+        "decomposition_products": "Li3NbO4; Zn; ZnO"
+    },
+    {
+        "composition": "Li9Nb5Zn7O24",
+        "V_min": "1.8286938970833309V",
+        "V_max": "3.60465775733333V",
+        "decomposition_products": "Li3NbO4; Zn; ZnO"
+    },
+    {
+        "composition": "Li39Nb5Zn16O48",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li8Nb2O9; Zn"
+    },
+    {
+        "composition": "Li33Nb7Zn14O48",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li8Nb2O9; Zn"
+    },
+    {
+        "composition": "Li18Nb4Zn5O24",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li8Nb2O9; Zn"
+    },
+    {
+        "composition": "Li5CaY3O8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li3CaYO4",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li13Ca2Y5O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li9Ca2YO8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li17Ca6YO16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li6Y2TiO8",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.9099498945833275V",
+        "decomposition_products": "LiYO2; Li2O; Ti3O"
+    },
+    {
+        "composition": "Li7Y3Ti4O16",
+        "V_min": "0.8953583445833277V",
+        "V_max": "3.4075755993333328V",
+        "decomposition_products": "LiTiO2; Li2TiO3; Y2O3"
+    },
+    {
+        "composition": "Li3Y3TiO8",
+        "V_min": "0.5018778033333244V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "LiTiO2; Li4TiO4; Y2O3"
+    },
+    {
+        "composition": "Li2MgO2",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg"
+    },
+    {
+        "composition": "Li9Sc11TeO24",
+        "V_min": "2.4561782808333312V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "Li2TeO3; LiScO2; Sc2O3"
+    },
+    {
+        "composition": "Li21Sc17(TeO12)4",
+        "V_min": "2.4561782808333312V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "Li2TeO3; LiScO2; Li4TeO5"
+    },
+    {
+        "composition": "Li4Sc2TeO8",
+        "V_min": "2.4561782808333312V",
+        "V_max": "3.624942697888887V",
+        "decomposition_products": "Li2TeO3; LiScO2; Li4TeO5"
+    },
+    {
+        "composition": "Li18Sc8TeO24",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiScO2; LiTe3"
+    },
+    {
+        "composition": "Li7Zr4Sc3O16",
+        "V_min": "0.5860697418333369V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Zr3O; Li2ZrO3; LiScO2"
+    },
+    {
+        "composition": "Li3ZrSc3O8",
+        "V_min": "0.5860697418333369V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "Zr3O; Li2ZrO3; LiScO2"
+    },
+    {
+        "composition": "Li6ZrSc2O8",
+        "V_min": "0.046471454833332926V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Zr3O; Li2O; LiScO2"
+    },
+    {
+        "composition": "Li13Mg2In5O16",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; In"
+    },
+    {
+        "composition": "Li5MgIn3O8",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; In"
+    },
+    {
+        "composition": "Li3MgInO4",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; In"
+    },
+    {
+        "composition": "Li17Mg6InO16",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; In"
+    },
+    {
+        "composition": "Li9Mg2InO8",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; In"
+    },
+    {
+        "composition": "Li3LaZnO4",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; La2O3; Zn"
+    },
+    {
+        "composition": "Li13La5Zn2O16",
+        "V_min": "1.1691774283333334V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; Zn"
+    },
+    {
+        "composition": "Li5La3ZnO8",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; La2O3; Zn"
+    },
+    {
+        "composition": "Li9LaZn2O8",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; La2O3; Zn"
+    },
+    {
+        "composition": "Li17LaZn6O16",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; La2O3; Zn"
+    },
+    {
+        "composition": "Li8Zr3Ti3O16",
+        "V_min": "0.8261439333333278V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "LiTiO2; Li2ZrO3; Li2TiO3"
+    },
+    {
+        "composition": "Li11In7O16",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; In"
+    },
+    {
+        "composition": "Li7In3O8",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; In"
+    },
+    {
+        "composition": "Li4Sc2WO8",
+        "V_min": "1.809986454374999V",
+        "V_max": "3.605102068V",
+        "decomposition_products": "Li4WO5; LiScO2; W"
+    },
+    {
+        "composition": "Li18Sc8WO24",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiScO2; W"
+    },
+    {
+        "composition": "Li21Sc17(WO12)4",
+        "V_min": "1.809986454374999V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "Li4WO5; LiScO2; W"
+    },
+    {
+        "composition": "Li9Sc11WO24",
+        "V_min": "1.809986454374999V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "Li4WO5; LiScO2; W"
+    },
+    {
+        "composition": "Li3YZnO4",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; Y2O3; Zn"
+    },
+    {
+        "composition": "Li17YZn6O16",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; Y2O3; Zn"
+    },
+    {
+        "composition": "Li13Y5Zn2O16",
+        "V_min": "1.2201706808333201V",
+        "V_max": "2.9099498945833258V",
+        "decomposition_products": "LiYO2; Li6ZnO4; Zn"
+    },
+    {
+        "composition": "Li5Y3ZnO8",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; Y2O3; Zn"
+    },
+    {
+        "composition": "Li9YZn2O8",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; Y2O3; Zn"
+    },
+    {
+        "composition": "Li11Sc7O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li7Sc3O8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li4Sn3O8",
+        "V_min": "1.984331932708334V",
+        "V_max": "3.4907850719999987V",
+        "decomposition_products": "Sn5O6; Li2SnO3"
+    },
+    {
+        "composition": "Li3HfIn3O8",
+        "V_min": "1.5960202716666652V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "LiInO2; Li2HfO3; In"
+    },
+    {
+        "composition": "Li7Hf4In3O16",
+        "V_min": "1.8172889304166697V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "In2O3; Li2HfO3; In"
+    },
+    {
+        "composition": "Li6HfIn2O8",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; Li6Hf2O7; In"
+    },
+    {
+        "composition": "Li9Y11MoO24",
+        "V_min": "1.4053298268749959V",
+        "V_max": "2.9099498945833275V",
+        "decomposition_products": "Li4MoO5; LiYO2; Mo"
+    },
+    {
+        "composition": "Li4Y2MoO8",
+        "V_min": "1.4053298268749959V",
+        "V_max": "3.3213608386666724V",
+        "decomposition_products": "Li4MoO5; LiYO2; Mo"
+    },
+    {
+        "composition": "Li21Y17(MoO12)4",
+        "V_min": "1.4053298268749959V",
+        "V_max": "2.9099498945833275V",
+        "decomposition_products": "Li4MoO5; LiYO2; Mo"
+    },
+    {
+        "composition": "Li18Y8MoO24",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; Li2O; Mo"
+    },
+    {
+        "composition": "Li6Zn(SnO4)2",
+        "V_min": "1.3860128509583352V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li2SnO3; Sn"
+    },
+    {
+        "composition": "Li14Zn3Sn11O32",
+        "V_min": "1.8370043324999956V",
+        "V_max": "3.4138184428888847V",
+        "decomposition_products": "Li2SnO3; ZnO; SnO"
+    },
+    {
+        "composition": "Li10Zn5Sn3O16",
+        "V_min": "1.3860128509583352V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li2SnO3; Sn"
+    },
+    {
+        "composition": "Li6Zn3Sn5O16",
+        "V_min": "1.8370043324999956V",
+        "V_max": "3.4138184428888847V",
+        "decomposition_products": "Li2SnO3; ZnO; SnO"
+    },
+    {
+        "composition": "Li6Zn3SnO8",
+        "V_min": "1.3860128509583352V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li2SnO3; Sn"
+    },
+    {
+        "composition": "Li22Zn7Sn7O32",
+        "V_min": "1.3860128509583352V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li2SnO3; Sn"
+    },
+    {
+        "composition": "Li26Zn9Sn5O32",
+        "V_min": "1.3860128509583352V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li2SnO3; Sn"
+    },
+    {
+        "composition": "Li14Zn3Sn3O16",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; Li10Zn4O9; Sn"
+    },
+    {
+        "composition": "Li34Zn13SnO32",
+        "V_min": "1.3860128509583352V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li2SnO3; Sn"
+    },
+    {
+        "composition": "Li18Zn5SnO16",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; Li10Zn4O9; Sn"
+    },
+    {
+        "composition": "Li14Hf11Mg3O32",
+        "V_min": "0.46665014395833526V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "Li2HfO3; Hf; MgO"
+    },
+    {
+        "composition": "Li34HfMg13O32",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; Li6Hf2O7"
+    },
+    {
+        "composition": "Li6Hf5Mg3O16",
+        "V_min": "0.46665014395833526V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "Li2HfO3; Hf; MgO"
+    },
+    {
+        "composition": "Li10Hf3Mg5O16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; Li6Hf2O7"
+    },
+    {
+        "composition": "Li18HfMg5O16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; Li6Hf2O7"
+    },
+    {
+        "composition": "Li6HfMg3O8",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; Li6Hf2O7"
+    },
+    {
+        "composition": "Li6Hf2MgO8",
+        "V_min": "0.06598563333333263V",
+        "V_max": "3.1747553183333235V",
+        "decomposition_products": "Li2O; LiMg; Li6Hf2O7"
+    },
+    {
+        "composition": "Li14Hf3Mg3O16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; Li6Hf2O7"
+    },
+    {
+        "composition": "Li26Hf5Mg9O32",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; Li6Hf2O7"
+    },
+    {
+        "composition": "Li22Hf7Mg7O32",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiMg; Li6Hf2O7"
+    },
+    {
+        "composition": "Li6Sc2TiO8",
+        "V_min": "0.12086784533333161V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "Li2O; LiScO2; Ti3O"
+    },
+    {
+        "composition": "Li7Sc3Ti4O16",
+        "V_min": "1.500975425833343V",
+        "V_max": "3.626680019333337V",
+        "decomposition_products": "LiTi2O4; Li2TiO3; Sc2O3"
+    },
+    {
+        "composition": "Li3Sc3TiO8",
+        "V_min": "0.9390073145833273V",
+        "V_max": "3.4308550500000017V",
+        "decomposition_products": "LiTiO2; LiScO2"
+    },
+    {
+        "composition": "Li2CaO2",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li3Y3ZrO8",
+        "V_min": "0.07069324977082814V",
+        "V_max": "3.1983148083333184V",
+        "decomposition_products": "LiYO2; Li6Zr2O7; Zr3O"
+    },
+    {
+        "composition": "Li7Y3Zr4O16",
+        "V_min": "0.4444087424999974V",
+        "V_max": "3.2762205804444413V",
+        "decomposition_products": "Zr3O; Li2ZrO3; Y2O3"
+    },
+    {
+        "composition": "Li6Y2ZrO8",
+        "V_min": "0.046471454833332926V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; Zr3O; Li2O"
+    },
+    {
+        "composition": "Li21Y17(TeO12)4",
+        "V_min": "2.166879382708342V",
+        "V_max": "3.285579678000002V",
+        "decomposition_products": "Li6TeO6; Li2TeO3; Y2O3"
+    },
+    {
+        "composition": "Li4Y2TeO8",
+        "V_min": "2.166879382708342V",
+        "V_max": "3.303614425333331V",
+        "decomposition_products": "Li6TeO6; Li2TeO3; Y2O3"
+    },
+    {
+        "composition": "Li9Y11TeO24",
+        "V_min": "1.6537747009210444V",
+        "V_max": "2.9099498945833275V",
+        "decomposition_products": "Li6TeO6; LiYO2; LiTe3"
+    },
+    {
+        "composition": "Li18Y8TeO24",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; Li2O; LiTe3"
+    },
+    {
+        "composition": "Li3ZnGaO4",
+        "V_min": "1.3714552239583326V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; Zn"
+    },
+    {
+        "composition": "Li17Zn6GaO16",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li5GaO4; Zn"
+    },
+    {
+        "composition": "Li9Zn2GaO8",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li5GaO4; Zn"
+    },
+    {
+        "composition": "Li5ZnGa3O8",
+        "V_min": "1.3714552239583326V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; LiGaO2; Zn"
+    },
+    {
+        "composition": "Li13Zn2Ga5O16",
+        "V_min": "1.3714552239583326V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; LiGaO2; Zn"
+    },
+    {
+        "composition": "Li4Ti3O8",
+        "V_min": "1.7448265233333224V",
+        "V_max": "3.6833917506666687V",
+        "decomposition_products": "Li7Ti11O24; Li2TiO3"
+    },
+    {
+        "composition": "Li4MgZnO4",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; MgO; Zn"
+    },
+    {
+        "composition": "Li51Ca20SbO48",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Sb"
+    },
+    {
+        "composition": "Li5Ca3SbO8",
+        "V_min": "1.348739983333333V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li2O; CaO; Sb"
+    },
+    {
+        "composition": "Li9Ca5SbO12",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Sb"
+    },
+    {
+        "composition": "Li39Ca16Sb5O48",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Sb"
+    },
+    {
+        "composition": "Li27Ca8SbO24",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Sb"
+    },
+    {
+        "composition": "Li33Ca14Sb7O48",
+        "V_min": "1.6344746833333372V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li5SbO5; CaO; Sb"
+    },
+    {
+        "composition": "Li21Ca10Sb11O48",
+        "V_min": "1.8323138799999985V",
+        "V_max": "3.3179151008888876V",
+        "decomposition_products": "LiSbO2; Li3SbO4; CaO"
+    },
+    {
+        "composition": "Li18Ca5(SbO6)4",
+        "V_min": "1.6344746833333372V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li5SbO5; CaO; Sb"
+    },
+    {
+        "composition": "Li7Ca2SbO8",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Sb"
+    },
+    {
+        "composition": "Li4Ca(SbO4)2",
+        "V_min": "1.8323138799999985V",
+        "V_max": "3.3179151008888876V",
+        "decomposition_products": "LiSbO2; Li3SbO4; CaO"
+    },
+    {
+        "composition": "Li9Ca7Sb5O24",
+        "V_min": "1.8323138799999985V",
+        "V_max": "3.3179151008888876V",
+        "decomposition_products": "LiSbO2; Li3SbO4; CaO"
+    },
+    {
+        "composition": "Li3La3HfO8",
+        "V_min": "-0.0V",
+        "V_max": "3.1747553183333235V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li6La2HfO8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li7La3Hf4O16",
+        "V_min": "0.10126311005208755V",
+        "V_max": "3.1754936639583473V",
+        "decomposition_products": "Li2HfO3; La2O3; Hf"
+    },
+    {
+        "composition": "Li39Ta5Zn16O48",
+        "V_min": "1.3577962463333326V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li5TaO5; Li10Zn4O9; Zn"
+    },
+    {
+        "composition": "Li5TaZn3O8",
+        "V_min": "1.3577962463333326V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li5TaO5; Li10Zn4O9; Zn"
+    },
+    {
+        "composition": "Li33Ta7Zn14O48",
+        "V_min": "1.402859857083339V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li5TaO5; Zn; ZnO"
+    },
+    {
+        "composition": "Li21Ta11Zn10O48",
+        "V_min": "1.7955920120833315V",
+        "V_max": "3.5693490799999994V",
+        "decomposition_products": "Li3TaO4; Zn; ZnO"
+    },
+    {
+        "composition": "Li9Ta5Zn7O24",
+        "V_min": "1.7955920120833315V",
+        "V_max": "3.5693490799999994V",
+        "decomposition_products": "Li3TaO4; Zn; ZnO"
+    },
+    {
+        "composition": "Li51TaZn20O48",
+        "V_min": "1.3577962463333326V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li5TaO5; Li10Zn4O9; Zn"
+    },
+    {
+        "composition": "Li9TaZn5O12",
+        "V_min": "1.3577962463333326V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li5TaO5; Li10Zn4O9; Zn"
+    },
+    {
+        "composition": "Li4Ta2ZnO8",
+        "V_min": "1.7955920120833315V",
+        "V_max": "3.5693490799999994V",
+        "decomposition_products": "Li3TaO4; Zn"
+    },
+    {
+        "composition": "Li7TaZn2O8",
+        "V_min": "1.3577962463333326V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li5TaO5; Li10Zn4O9; Zn"
+    },
+    {
+        "composition": "Li18Ta4Zn5O24",
+        "V_min": "1.402859857083339V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li5TaO5; Zn; ZnO"
+    },
+    {
+        "composition": "Li27TaZn8O24",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li5TaO5; Li6ZnO4; Zn"
+    },
+    {
+        "composition": "Li21Sc17(MoO12)4",
+        "V_min": "1.989904434583334V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "Li2MoO4; LiScO2; MoO2"
+    },
+    {
+        "composition": "Li9Sc11MoO24",
+        "V_min": "1.989904434583334V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "LiScO2; MoO2"
+    },
+    {
+        "composition": "Li4Sc2MoO8",
+        "V_min": "1.8456853983333368V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "Li4MoO5; Li2MoO3; LiScO2"
+    },
+    {
+        "composition": "Li18Sc8MoO24",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiScO2; Mo"
+    },
+    {
+        "composition": "Li7Ga5(SbO8)2",
+        "V_min": "2.2495402058333323V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "Li3SbO4; LiGaO2; LiSbO2"
+    },
+    {
+        "composition": "Li12Ga5SbO16",
+        "V_min": "1.4886549145833328V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; LiGaO2; Sb"
+    },
+    {
+        "composition": "Li8Ga3Sb3O16",
+        "V_min": "2.2495402058333323V",
+        "V_max": "3.540435808V",
+        "decomposition_products": "Li3SbO4; LiGaO2; LiSbO2"
+    },
+    {
+        "composition": "Li6Ga7SbO16",
+        "V_min": "2.5915640667708297V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "LiGaO2; Sb2O3; LiSbO3"
+    },
+    {
+        "composition": "Li7Sc5(SbO8)2",
+        "V_min": "2.0440762845833325V",
+        "V_max": "3.430855049999998V",
+        "decomposition_products": "Li3SbO4; LiSbO2; LiScO2"
+    },
+    {
+        "composition": "Li12Sc5SbO16",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiScO2; Li2O; Sb"
+    },
+    {
+        "composition": "Li8Sc3Sb3O16",
+        "V_min": "2.2495402058333323V",
+        "V_max": "3.540435808V",
+        "decomposition_products": "Li3SbO4; LiSbO2; Sc2O3"
+    },
+    {
+        "composition": "Li6Sc7SbO16",
+        "V_min": "2.0440762845833325V",
+        "V_max": "3.430855049999998V",
+        "decomposition_products": "LiSbO2; LiScO2"
+    },
+    {
+        "composition": "Li21Ga17(MoO12)4",
+        "V_min": "2.673101734583333V",
+        "V_max": "3.7952269433333328V",
+        "decomposition_products": "LiGaO2; Li2MoO4; MoO2"
+    },
+    {
+        "composition": "Li18Ga8MoO24",
+        "V_min": "1.5006784143749978V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; LiGaO2; Mo"
+    },
+    {
+        "composition": "Li4Ga2MoO8",
+        "V_min": "1.8456853983333368V",
+        "V_max": "3.7952269433333328V",
+        "decomposition_products": "Li4MoO5; Li2MoO3; LiGaO2"
+    },
+    {
+        "composition": "Li9Ga11MoO24",
+        "V_min": "2.673101734583333V",
+        "V_max": "3.7952269433333328V",
+        "decomposition_products": "LiGaO2; MoO2"
+    },
+    {
+        "composition": "Li2ZnO2",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Zn"
+    },
+    {
+        "composition": "Li7La3O8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li11La7O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li11Y7O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li7Y3O8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li5MgGa3O8",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583332V",
+        "decomposition_products": "Li5GaO4; MgO; Ga"
+    },
+    {
+        "composition": "Li13Mg2Ga5O16",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583332V",
+        "decomposition_products": "Li5GaO4; MgO; Ga"
+    },
+    {
+        "composition": "Li9Mg2GaO8",
+        "V_min": "0.8580861708333332V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Ga"
+    },
+    {
+        "composition": "Li3MgGaO4",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583332V",
+        "decomposition_products": "Li5GaO4; MgO; Ga"
+    },
+    {
+        "composition": "Li17Mg6GaO16",
+        "V_min": "0.8580861708333332V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Ga"
+    },
+    {
+        "composition": "Li12Ca7MoO16",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Mo"
+    },
+    {
+        "composition": "Li8Ca3Mo3O16",
+        "V_min": "1.9779995533333221V",
+        "V_max": "3.3154246959999973V",
+        "decomposition_products": "CaMoO3; Li4MoO5; CaO"
+    },
+    {
+        "composition": "Li28Ca9Mo3O32",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Mo"
+    },
+    {
+        "composition": "Li28Ca17Mo11O64",
+        "V_min": "1.9779995533333221V",
+        "V_max": "3.3154246959999973V",
+        "decomposition_products": "CaMoO3; Li4MoO5; CaO"
+    },
+    {
+        "composition": "Li68Ca27MoO64",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Mo"
+    },
+    {
+        "composition": "Li12Ca11Mo5O32",
+        "V_min": "1.9779995533333221V",
+        "V_max": "3.3154246959999973V",
+        "decomposition_products": "CaMoO3; Li4MoO5; CaO"
+    },
+    {
+        "composition": "Li6Ca2MoO8",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Mo"
+    },
+    {
+        "composition": "Li36Ca11MoO32",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Mo"
+    },
+    {
+        "composition": "Li52Ca23Mo5O64",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Mo"
+    },
+    {
+        "composition": "Li44Ca21Mo7O64",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Mo"
+    },
+    {
+        "composition": "Li20Ca13Mo3O32",
+        "V_min": "1.3840826383333316V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; Mo"
+    },
+    {
+        "composition": "Li12La5NbO16",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; La2O3"
+    },
+    {
+        "composition": "Li6La7NbO16",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; La2O3"
+    },
+    {
+        "composition": "Li7La5Nb2O16",
+        "V_min": "0.9594037120833405V",
+        "V_max": "3.154684515833342V",
+        "decomposition_products": "LiNbO2; Li8Nb2O9; La2O3"
+    },
+    {
+        "composition": "Li8La3Nb3O16",
+        "V_min": "1.0596038908333274V",
+        "V_max": "3.23987863666666V",
+        "decomposition_products": "Li3NbO4; LiNbO2; La2O3"
+    },
+    {
+        "composition": "Li14In3Ga3O16",
+        "V_min": "1.4655063658333327V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "LiInO2; Li5GaO4; In"
+    },
+    {
+        "composition": "Li22In7Ga7O32",
+        "V_min": "1.4655063658333327V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "LiInO2; Li5GaO4; In"
+    },
+    {
+        "composition": "Li8Ta3In3O16",
+        "V_min": "1.9222716304166643V",
+        "V_max": "3.5693490799999994V",
+        "decomposition_products": "In2O3; Li3TaO4; In"
+    },
+    {
+        "composition": "Li7Ta2In5O16",
+        "V_min": "1.5960202716666647V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "Li3TaO4; LiInO2; In"
+    },
+    {
+        "composition": "Li6TaIn7O16",
+        "V_min": "1.5960202716666647V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "Li3TaO4; LiInO2; In"
+    },
+    {
+        "composition": "Li12TaIn5O16",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li5TaO5; Li2O; In"
+    },
+    {
+        "composition": "Li9Mg7Ta5O24",
+        "V_min": "1.118610290833329V",
+        "V_max": "3.5306888759999957V",
+        "decomposition_products": "Li3TaO4; MgO; Ta"
+    },
+    {
+        "composition": "Li39Mg16Ta5O48",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Ta"
+    },
+    {
+        "composition": "Li33Mg14Ta7O48",
+        "V_min": "0.5482291488333415V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li5TaO5; MgO; Ta"
+    },
+    {
+        "composition": "Li4MgTa2O8",
+        "V_min": "1.1766005968333297V",
+        "V_max": "3.5693490799999994V",
+        "decomposition_products": "Mg4Ta2O9; Li3TaO4; Ta"
+    },
+    {
+        "composition": "Li51Mg20TaO48",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Ta"
+    },
+    {
+        "composition": "Li18Mg5Ta4O24",
+        "V_min": "0.5482291488333415V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li5TaO5; MgO; Ta"
+    },
+    {
+        "composition": "Li27Mg8TaO24",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Ta"
+    },
+    {
+        "composition": "Li7Mg2TaO8",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Ta"
+    },
+    {
+        "composition": "Li9Mg5TaO12",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Ta"
+    },
+    {
+        "composition": "Li21Mg10Ta11O48",
+        "V_min": "1.118610290833329V",
+        "V_max": "3.5306888759999957V",
+        "decomposition_products": "Li3TaO4; MgO; Ta"
+    },
+    {
+        "composition": "Li5Mg3TaO8",
+        "V_min": "0.34550495133333103V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li2O; MgO; Ta"
+    },
+    {
+        "composition": "Li26Ca9Ti5O32",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Ti3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li22Ca7Ti7O32",
+        "V_min": "0.5018778033333244V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "LiTiO2; Li4TiO4; CaO"
+    },
+    {
+        "composition": "Li14Ca3Ti3O16",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Ti3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li6CaTi2O8",
+        "V_min": "0.5018778033333244V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "LiTiO2; Li4TiO4; CaO"
+    },
+    {
+        "composition": "Li18Ca5TiO16",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Ti3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li10Ca5Ti3O16",
+        "V_min": "0.5018778033333244V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "LiTiO2; Li4TiO4; CaO"
+    },
+    {
+        "composition": "Li6Ca3Ti5O16",
+        "V_min": "0.749030790833326V",
+        "V_max": "3.3295342373333323V",
+        "decomposition_products": "Li2TiO3; LiTiO2; CaO"
+    },
+    {
+        "composition": "Li6Ca3TiO8",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Ti3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li14Ca3Ti11O32",
+        "V_min": "1.3915228683333927V",
+        "V_max": "3.5974926706666803V",
+        "decomposition_products": "Li2TiO3; LiTi2O4; CaTiO3"
+    },
+    {
+        "composition": "Li34Ca13TiO32",
+        "V_min": "0.12086784533333161V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Ti3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li6La2SnO8",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; La2O3; Sn"
+    },
+    {
+        "composition": "Li7La3(SnO4)4",
+        "V_min": "1.4918242644270825V",
+        "V_max": "3.1381321289583326V",
+        "decomposition_products": "Li2SnO3; La2O3; Sn"
+    },
+    {
+        "composition": "Li3La3SnO8",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; La2O3; Sn"
+    },
+    {
+        "composition": "Li22Y7Ga7O32",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; Y2O3; Ga"
+    },
+    {
+        "composition": "Li14Y3Ga3O16",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; Y2O3; Ga"
+    },
+    {
+        "composition": "Li7Ti4Ga3O16",
+        "V_min": "1.7527084683333365V",
+        "V_max": "3.6833917506666687V",
+        "decomposition_products": "Li2TiO3; LiGaO2; Ga"
+    },
+    {
+        "composition": "Li6Ti(GaO4)2",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "Li4TiO4; Li5GaO4; Ga"
+    },
+    {
+        "composition": "Li3TiGa3O8",
+        "V_min": "1.7527084683333365V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "Li2TiO3; LiGaO2; Ga"
+    },
+    {
+        "composition": "Li9In11WO24",
+        "V_min": "1.5960202716666643V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "LiInO2; Li4WO5; In"
+    },
+    {
+        "composition": "Li18In8WO24",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li4WO5; Li2O; In"
+    },
+    {
+        "composition": "Li4In2WO8",
+        "V_min": "1.5960202716666643V",
+        "V_max": "3.605102068V",
+        "decomposition_products": "LiInO2; Li4WO5; In"
+    },
+    {
+        "composition": "Li21In17(WO12)4",
+        "V_min": "1.5960202716666643V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "LiInO2; Li4WO5; In"
+    },
+    {
+        "composition": "Li21La17(WO12)4",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; W"
+    },
+    {
+        "composition": "Li4La2WO8",
+        "V_min": "1.2028929533333323V",
+        "V_max": "3.1874081327083443V",
+        "decomposition_products": "Li2O; La2O3; W"
+    },
+    {
+        "composition": "Li9La11WO24",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; W"
+    },
+    {
+        "composition": "Li18La8WO24",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; W"
+    },
+    {
+        "composition": "Li14La3In3O16",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; In"
+    },
+    {
+        "composition": "Li22La7In7O32",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; In"
+    },
+    {
+        "composition": "Li7Y5(SbO8)2",
+        "V_min": "1.6344746833333372V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li5SbO5; Y2O3; Sb"
+    },
+    {
+        "composition": "Li8Y3Sb3O16",
+        "V_min": "1.8501799606249911V",
+        "V_max": "3.320233706444438V",
+        "decomposition_products": "Li3SbO4; Y3Sb5O12; Y2O3"
+    },
+    {
+        "composition": "Li12Y5SbO16",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; Li2O; Sb"
+    },
+    {
+        "composition": "Li6Y7SbO16",
+        "V_min": "1.3742366095833274V",
+        "V_max": "2.9099498945833275V",
+        "decomposition_products": "LiYO2; Li5SbO5; Sb"
+    },
+    {
+        "composition": "Li17LaMg6O16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiMg; Li2O; La2O3"
+    },
+    {
+        "composition": "Li5La3MgO8",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiMg; Li2O; La2O3"
+    },
+    {
+        "composition": "Li13La5Mg2O16",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiMg; Li2O; La2O3"
+    },
+    {
+        "composition": "Li9LaMg2O8",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiMg; Li2O; La2O3"
+    },
+    {
+        "composition": "Li3LaMgO4",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiMg; Li2O; La2O3"
+    },
+    {
+        "composition": "Li13Zn2In5O16",
+        "V_min": "1.419427626904761V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; LiInO2; In"
+    },
+    {
+        "composition": "Li5ZnIn3O8",
+        "V_min": "1.447294395666668V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; LiInO2; In"
+    },
+    {
+        "composition": "Li17Zn6InO16",
+        "V_min": "1.419427626904761V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; Li10Zn4O9; In"
+    },
+    {
+        "composition": "Li9Zn2InO8",
+        "V_min": "1.419427626904761V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; In"
+    },
+    {
+        "composition": "Li3ZnInO4",
+        "V_min": "1.447294395666668V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; LiInO2; In"
+    },
+    {
+        "composition": "Li5CaSc3O8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li17Ca6ScO16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li9Ca2ScO8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li3CaScO4",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li13Ca2Sc5O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li8Nb3In3O16",
+        "V_min": "1.9553735154166645V",
+        "V_max": "3.60465775733333V",
+        "decomposition_products": "In2O3; Li3NbO4; In"
+    },
+    {
+        "composition": "Li7Nb2In5O16",
+        "V_min": "1.5960202716666647V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "Li3NbO4; LiInO2; In"
+    },
+    {
+        "composition": "Li12NbIn5O16",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li8Nb2O9; Li2O; In"
+    },
+    {
+        "composition": "Li6NbIn7O16",
+        "V_min": "1.5960202716666647V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "Li3NbO4; LiInO2; In"
+    },
+    {
+        "composition": "Li4Zr3O8",
+        "V_min": "0.5860697418333369V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Zr3O; Li2ZrO3"
+    },
+    {
+        "composition": "Li21Mg10Nb11O48",
+        "V_min": "1.638374144583327V",
+        "V_max": "3.548556105333329V",
+        "decomposition_products": "Li3NbO4; LiNbO2; MgO"
+    },
+    {
+        "composition": "Li18Mg5Nb4O24",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; MgO"
+    },
+    {
+        "composition": "Li27Mg8NbO24",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; MgO"
+    },
+    {
+        "composition": "Li33Mg14Nb7O48",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; MgO"
+    },
+    {
+        "composition": "Li7Mg2NbO8",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; MgO"
+    },
+    {
+        "composition": "Li39Mg16Nb5O48",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; MgO"
+    },
+    {
+        "composition": "Li9Mg5NbO12",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; MgO"
+    },
+    {
+        "composition": "Li9Mg7Nb5O24",
+        "V_min": "1.638374144583327V",
+        "V_max": "3.548556105333329V",
+        "decomposition_products": "Li3NbO4; LiNbO2; MgO"
+    },
+    {
+        "composition": "Li5Mg3NbO8",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; MgO"
+    },
+    {
+        "composition": "Li51Mg20NbO48",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; MgO"
+    },
+    {
+        "composition": "Li4MgNb2O8",
+        "V_min": "1.743564742083329V",
+        "V_max": "3.60465775733333V",
+        "decomposition_products": "Li3NbO4; Mg4Nb2O9; LiNbO2"
+    },
+    {
+        "composition": "Li6Hf5Zn3O16",
+        "V_min": "1.6906093120833374V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "Li2HfO3; Zn; ZnO"
+    },
+    {
+        "composition": "Li10Hf3Zn5O16",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Hf2O7; Zn"
+    },
+    {
+        "composition": "Li18HfZn5O16",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6Hf2O7; Li6ZnO4; Zn"
+    },
+    {
+        "composition": "Li22Hf7Zn7O32",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Hf2O7; Zn"
+    },
+    {
+        "composition": "Li26Hf5Zn9O32",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Hf2O7; Zn"
+    },
+    {
+        "composition": "Li6HfZn3O8",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Hf2O7; Zn"
+    },
+    {
+        "composition": "Li6Hf2ZnO8",
+        "V_min": "1.3577962463333335V",
+        "V_max": "3.1747553183333235V",
+        "decomposition_products": "Li10Zn4O9; Li6Hf2O7; Zn"
+    },
+    {
+        "composition": "Li14Hf3Zn3O16",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Hf2O7; Zn"
+    },
+    {
+        "composition": "Li34HfZn13O32",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Hf2O7; Zn"
+    },
+    {
+        "composition": "Li14Hf11Zn3O32",
+        "V_min": "1.6906093120833374V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "Li2HfO3; HfO2; Zn"
+    },
+    {
+        "composition": "Li10Mg5Sn3O16",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; MgO; Sn"
+    },
+    {
+        "composition": "Li6Mg3Sn5O16",
+        "V_min": "1.984331932708334V",
+        "V_max": "3.4907850719999987V",
+        "decomposition_products": "Sn5O6; Mg2SnO4; Li2SnO3"
+    },
+    {
+        "composition": "Li6Mg(SnO4)2",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; MgO; Sn"
+    },
+    {
+        "composition": "Li14Mg3Sn11O32",
+        "V_min": "1.984331932708334V",
+        "V_max": "3.4907850719999987V",
+        "decomposition_products": "Sn5O6; Mg2SnO4; Li2SnO3"
+    },
+    {
+        "composition": "Li14Mg3Sn3O16",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; MgO; Sn"
+    },
+    {
+        "composition": "Li26Mg9Sn5O32",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; MgO; Sn"
+    },
+    {
+        "composition": "Li22Mg7Sn7O32",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; MgO; Sn"
+    },
+    {
+        "composition": "Li6Mg3SnO8",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; MgO; Sn"
+    },
+    {
+        "composition": "Li18Mg5SnO16",
+        "V_min": "1.2409193795833333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Sn"
+    },
+    {
+        "composition": "Li34Mg13SnO32",
+        "V_min": "1.2409193795833333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Sn"
+    },
+    {
+        "composition": "Li36Mg11WO32",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; W"
+    },
+    {
+        "composition": "Li8Mg3W3O16",
+        "V_min": "2.0527487845833337V",
+        "V_max": "3.5862229413333333V",
+        "decomposition_products": "Li4WO5; MgO; W"
+    },
+    {
+        "composition": "Li44Mg21W7O64",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; W"
+    },
+    {
+        "composition": "Li68Mg27WO64",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; W"
+    },
+    {
+        "composition": "Li52Mg23W5O64",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; W"
+    },
+    {
+        "composition": "Li20Mg13W3O32",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; W"
+    },
+    {
+        "composition": "Li12Mg7WO16",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; W"
+    },
+    {
+        "composition": "Li28Mg9W3O32",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; W"
+    },
+    {
+        "composition": "Li6Mg2WO8",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; W"
+    },
+    {
+        "composition": "Li28Mg17W11O64",
+        "V_min": "2.0527487845833337V",
+        "V_max": "3.5862229413333333V",
+        "decomposition_products": "Li4WO5; MgO; W"
+    },
+    {
+        "composition": "Li12Mg11W5O32",
+        "V_min": "2.0527487845833337V",
+        "V_max": "3.5862229413333333V",
+        "decomposition_products": "Li4WO5; MgO; W"
+    },
+    {
+        "composition": "Li8Ca3Te3O16",
+        "V_min": "2.2176021095833276V",
+        "V_max": "3.6570456080000033V",
+        "decomposition_products": "Li2TeO3; Ca3TeO6; Li6TeO6"
+    },
+    {
+        "composition": "Li6Ca2TeO8",
+        "V_min": "1.6296200023684204V",
+        "V_max": "3.177002451666664V",
+        "decomposition_products": "Li2O; LiTe3; CaO"
+    },
+    {
+        "composition": "Li12Ca11Te5O32",
+        "V_min": "1.9215218395833313V",
+        "V_max": "3.177002451666664V",
+        "decomposition_products": "Li2TeO3; Li6TeO6; CaO"
+    },
+    {
+        "composition": "Li20Ca13Te3O32",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; CaO"
+    },
+    {
+        "composition": "Li44Ca21Te7O64",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; CaO"
+    },
+    {
+        "composition": "Li12Ca7TeO16",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; CaO"
+    },
+    {
+        "composition": "Li52Ca23Te5O64",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; CaO"
+    },
+    {
+        "composition": "Li28Ca17Te11O64",
+        "V_min": "2.2176021095833276V",
+        "V_max": "3.303614425333331V",
+        "decomposition_products": "Li2TeO3; Ca3TeO6; Li6TeO6"
+    },
+    {
+        "composition": "Li28Ca9Te3O32",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; CaO"
+    },
+    {
+        "composition": "Li36Ca11TeO32",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; CaO"
+    },
+    {
+        "composition": "Li68Ca27TeO64",
+        "V_min": "1.6296200023684204V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiTe3; CaO"
+    },
+    {
+        "composition": "Li26Ca9Zr5O32",
+        "V_min": "0.046471454833332926V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Zr3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li22Ca7Zr7O32",
+        "V_min": "0.046471454833332926V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Zr3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li6Ca3Zr5O16",
+        "V_min": "0.347683103833331V",
+        "V_max": "3.202118790833337V",
+        "decomposition_products": "Li2ZrO3; Zr3O; CaO"
+    },
+    {
+        "composition": "Li10Ca5Zr3O16",
+        "V_min": "0.046471454833332926V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Zr3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li18Ca5ZrO16",
+        "V_min": "0.046471454833332926V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Zr3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li6CaZr2O8",
+        "V_min": "0.046471454833332926V",
+        "V_max": "3.1983148083333184V",
+        "decomposition_products": "Zr3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li6Ca3ZrO8",
+        "V_min": "0.046471454833332926V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Zr3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li14Ca3Zr3O16",
+        "V_min": "0.046471454833332926V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Zr3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li14Ca3Zr11O32",
+        "V_min": "0.5860697418333369V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Li2ZrO3; CaZrO3; Zr3O"
+    },
+    {
+        "composition": "Li34Ca13ZrO32",
+        "V_min": "0.046471454833332926V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Zr3O; Li2O; CaO"
+    },
+    {
+        "composition": "Li7In3(SnO4)4",
+        "V_min": "2.231408029583333V",
+        "V_max": "3.4907850719999987V",
+        "decomposition_products": "In15SnO24; SnO2; Li2SnO3"
+    },
+    {
+        "composition": "Li3In3SnO8",
+        "V_min": "1.5960202716666652V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "LiInO2; Li2SnO3; In"
+    },
+    {
+        "composition": "Li6In2SnO8",
+        "V_min": "1.4261370688888897V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; LiInO2; In"
+    },
+    {
+        "composition": "Li8La3Ta3O16",
+        "V_min": "0.6512656078333359V",
+        "V_max": "3.215973039583335V",
+        "decomposition_products": "Li3TaO4; La2O3; Ta"
+    },
+    {
+        "composition": "Li6La7TaO16",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; Ta"
+    },
+    {
+        "composition": "Li7La5Ta2O16",
+        "V_min": "0.5482291488333415V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li5TaO5; La2O3; Ta"
+    },
+    {
+        "composition": "Li12La5TaO16",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; Ta"
+    },
+    {
+        "composition": "Li7Zr4Ga3O16",
+        "V_min": "1.3617953383333352V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Li2ZrO3; LiGaO2; Ga"
+    },
+    {
+        "composition": "Li3ZrGa3O8",
+        "V_min": "1.3617953383333352V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "Li2ZrO3; LiGaO2; Ga"
+    },
+    {
+        "composition": "Li6Zr(GaO4)2",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583332V",
+        "decomposition_products": "Li6Zr2O7; Li5GaO4; Ga"
+    },
+    {
+        "composition": "Li9Ga11TeO24",
+        "V_min": "3.0379416264583323V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "LiGa5O8; Li2TeO3; LiGaO2"
+    },
+    {
+        "composition": "Li4Ga2TeO8",
+        "V_min": "2.9365076720833354V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "Li2TeO3; LiGaO2; Li4TeO5"
+    },
+    {
+        "composition": "Li18Ga8TeO24",
+        "V_min": "1.7621709898684206V",
+        "V_max": "3.024368199583332V",
+        "decomposition_products": "Li5GaO4; LiGaO2; LiTe3"
+    },
+    {
+        "composition": "Li21Ga17(TeO12)4",
+        "V_min": "3.0379416264583323V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "Li2TeO4; Li2TeO3; LiGaO2"
+    },
+    {
+        "composition": "Li6Y2SnO8",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; Y2O3; Sn"
+    },
+    {
+        "composition": "Li3Y3SnO8",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; Y2O3; Sn"
+    },
+    {
+        "composition": "Li7Y3(SnO4)4",
+        "V_min": "1.6897145647395828V",
+        "V_max": "3.318332593V",
+        "decomposition_products": "Li2SnO3; Y2O3; Sn"
+    },
+    {
+        "composition": "Li6Sc7TaO16",
+        "V_min": "0.9688595518333336V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "Li3TaO4; LiScO2; Ta"
+    },
+    {
+        "composition": "Li7Sc5Ta2O16",
+        "V_min": "0.9688595518333336V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "Li3TaO4; LiScO2; Ta"
+    },
+    {
+        "composition": "Li12Sc5TaO16",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; LiScO2; Ta"
+    },
+    {
+        "composition": "Li8Sc3Ta3O16",
+        "V_min": "1.1766005968333297V",
+        "V_max": "3.5693490799999994V",
+        "decomposition_products": "Li3TaO4; Sc2O3; Ta"
+    },
+    {
+        "composition": "Li6Zn2MoO8",
+        "V_min": "1.477913451666667V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li4MoO5; Li10Zn4O9; Mo"
+    },
+    {
+        "composition": "Li12Zn11Mo5O32",
+        "V_min": "1.8456853983333368V",
+        "V_max": "3.3213608386666724V",
+        "decomposition_products": "Li4MoO5; Li2MoO3; ZnO"
+    },
+    {
+        "composition": "Li52Zn23Mo5O64",
+        "V_min": "1.477913451666667V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li4MoO5; Li10Zn4O9; Mo"
+    },
+    {
+        "composition": "Li44Zn21Mo7O64",
+        "V_min": "1.477913451666667V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li4MoO5; Li10Zn4O9; Mo"
+    },
+    {
+        "composition": "Li20Zn13Mo3O32",
+        "V_min": "1.477913451666667V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li4MoO5; Li10Zn4O9; Mo"
+    },
+    {
+        "composition": "Li28Zn17Mo11O64",
+        "V_min": "1.8456853983333368V",
+        "V_max": "3.3213608386666724V",
+        "decomposition_products": "Li4MoO5; Li2MoO3; ZnO"
+    },
+    {
+        "composition": "Li12Zn7MoO16",
+        "V_min": "1.477913451666667V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li4MoO5; Li10Zn4O9; Mo"
+    },
+    {
+        "composition": "Li8Zn3Mo3O16",
+        "V_min": "1.8456853983333368V",
+        "V_max": "3.3213608386666724V",
+        "decomposition_products": "Li4MoO5; Li2MoO3; ZnO"
+    },
+    {
+        "composition": "Li28Zn9Mo3O32",
+        "V_min": "1.477913451666667V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li4MoO5; Li10Zn4O9; Mo"
+    },
+    {
+        "composition": "Li36Zn11MoO32",
+        "V_min": "1.443079990714282V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; Li10Zn4O9; Mo"
+    },
+    {
+        "composition": "Li68Zn27MoO64",
+        "V_min": "1.477913451666667V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li4MoO5; Li10Zn4O9; Mo"
+    },
+    {
+        "composition": "Li4CaMgO4",
+        "V_min": "0.06598563333333263V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiMg; Li2O; CaO"
+    },
+    {
+        "composition": "Li12In5SbO16",
+        "V_min": "1.4098238952083324V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiInO2; InSb; Li2O"
+    },
+    {
+        "composition": "Li6In7SbO16",
+        "V_min": "1.6973050752083292V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "LiInO2; Li3SbO4; InSb"
+    },
+    {
+        "composition": "Li7In5(SbO8)2",
+        "V_min": "1.6973050752083292V",
+        "V_max": "3.220139058333329V",
+        "decomposition_products": "LiInO2; Li3SbO4; InSb"
+    },
+    {
+        "composition": "Li8In3Sb3O16",
+        "V_min": "2.2495402058333323V",
+        "V_max": "3.540435808V",
+        "decomposition_products": "Li3SbO4; In2O3; LiSbO2"
+    },
+    {
+        "composition": "Li39Mg16Sb5O48",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Sb"
+    },
+    {
+        "composition": "Li5Mg3SbO8",
+        "V_min": "1.348739983333333V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li2O; MgO; Sb"
+    },
+    {
+        "composition": "Li33Mg14Sb7O48",
+        "V_min": "1.6344746833333372V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li5SbO5; MgO; Sb"
+    },
+    {
+        "composition": "Li7Mg2SbO8",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Sb"
+    },
+    {
+        "composition": "Li51Mg20SbO48",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Sb"
+    },
+    {
+        "composition": "Li18Mg5(SbO6)4",
+        "V_min": "1.6344746833333372V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li5SbO5; MgO; Sb"
+    },
+    {
+        "composition": "Li9Mg7Sb5O24",
+        "V_min": "2.2979477668749926V",
+        "V_max": "3.5330359311111064V",
+        "decomposition_products": "Li3SbO4; Mg(SbO2)2; MgO"
+    },
+    {
+        "composition": "Li21Mg10Sb11O48",
+        "V_min": "2.2979477668749926V",
+        "V_max": "3.5330359311111064V",
+        "decomposition_products": "Li3SbO4; Mg(SbO2)2; MgO"
+    },
+    {
+        "composition": "Li4Mg(SbO4)2",
+        "V_min": "2.312689709114581V",
+        "V_max": "3.540435808V",
+        "decomposition_products": "Li3SbO4; Mg4Sb2O9; Mg(SbO2)2"
+    },
+    {
+        "composition": "Li9Mg5SbO12",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Sb"
+    },
+    {
+        "composition": "Li27Mg8SbO24",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; MgO; Sb"
+    },
+    {
+        "composition": "Li8Hf3Sn3O16",
+        "V_min": "1.9186588770833397V",
+        "V_max": "3.4573675333333354V",
+        "decomposition_products": "Li2SnO3; Li2HfO3; SnO"
+    },
+    {
+        "composition": "Li22Sc7Ga7O32",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; LiScO2; Ga"
+    },
+    {
+        "composition": "Li14Sc3Ga3O16",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583333V",
+        "decomposition_products": "Li5GaO4; LiScO2; Ga"
+    },
+    {
+        "composition": "Li8Y3Nb3O16",
+        "V_min": "1.4113127325000023V",
+        "V_max": "3.427456685555555V",
+        "decomposition_products": "Li3NbO4; LiNbO2; Y2O3"
+    },
+    {
+        "composition": "Li6Y7NbO16",
+        "V_min": "0.6534854355208248V",
+        "V_max": "2.9099498945833275V",
+        "decomposition_products": "LiYO2; LiNbO2"
+    },
+    {
+        "composition": "Li7Y5Nb2O16",
+        "V_min": "0.9594037120833405V",
+        "V_max": "3.154684515833342V",
+        "decomposition_products": "LiNbO2; Li8Nb2O9; Y2O3"
+    },
+    {
+        "composition": "Li12Y5NbO16",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; LiNbO2; Li2O"
+    },
+    {
+        "composition": "Li6TiZn3O8",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4TiO4; Zn"
+    },
+    {
+        "composition": "Li6Ti2ZnO8",
+        "V_min": "1.4471891033333335V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "Li4TiO4; Zn"
+    },
+    {
+        "composition": "Li18TiZn5O16",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li4TiO4; Li6ZnO4; Zn"
+    },
+    {
+        "composition": "Li6Ti5Zn3O16",
+        "V_min": "1.8285215602083331V",
+        "V_max": "3.6044739313333345V",
+        "decomposition_products": "Li2TiO3; Zn; ZnO"
+    },
+    {
+        "composition": "Li10Ti3Zn5O16",
+        "V_min": "1.4471891033333335V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "Li4TiO4; Zn; ZnO"
+    },
+    {
+        "composition": "Li14Ti11Zn3O32",
+        "V_min": "1.8285215602083331V",
+        "V_max": "3.6044739313333345V",
+        "decomposition_products": "Li2TiO3; Li2Ti3ZnO8; Zn"
+    },
+    {
+        "composition": "Li34TiZn13O32",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4TiO4; Zn"
+    },
+    {
+        "composition": "Li26Ti5Zn9O32",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4TiO4; Zn"
+    },
+    {
+        "composition": "Li22Ti7Zn7O32",
+        "V_min": "1.4471891033333335V",
+        "V_max": "3.175835958333332V",
+        "decomposition_products": "Li4TiO4; Zn; ZnO"
+    },
+    {
+        "composition": "Li14Ti3Zn3O16",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4TiO4; Zn"
+    },
+    {
+        "composition": "Li7Y5Ta2O16",
+        "V_min": "0.5482291488333415V",
+        "V_max": "3.0871774658333413V",
+        "decomposition_products": "Li5TaO5; Y2O3; Ta"
+    },
+    {
+        "composition": "Li6Y7TaO16",
+        "V_min": "0.37100157758332686V",
+        "V_max": "2.9099498945833275V",
+        "decomposition_products": "LiYO2; Li5TaO5; Ta"
+    },
+    {
+        "composition": "Li12Y5TaO16",
+        "V_min": "0.34550495133333103V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiYO2; Li2O; Ta"
+    },
+    {
+        "composition": "Li8Y3Ta3O16",
+        "V_min": "0.9666978871666652V",
+        "V_max": "3.4294139402222195V",
+        "decomposition_products": "Li3TaO4; Y2O3; Ta"
+    },
+    {
+        "composition": "Li7Sc3(SnO4)4",
+        "V_min": "1.984331932708334V",
+        "V_max": "3.4907850719999987V",
+        "decomposition_products": "Sn5O6; Li2SnO3; Sc2O3"
+    },
+    {
+        "composition": "Li6Sc2SnO8",
+        "V_min": "1.362210858333335V",
+        "V_max": "2.9653142541666675V",
+        "decomposition_products": "Li8SnO6; LiScO2; Sn"
+    },
+    {
+        "composition": "Li3Sc3SnO8",
+        "V_min": "1.868947970833332V",
+        "V_max": "3.430855049999998V",
+        "decomposition_products": "Li2SnO3; LiScO2; SnO"
+    },
+    {
+        "composition": "Li8Hf3Zr3O16",
+        "V_min": "0.5860697418333369V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Zr3O; Li2ZrO3; Li2HfO3"
+    },
+    {
+        "composition": "Li3ScZnO4",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; LiScO2; Zn"
+    },
+    {
+        "composition": "Li5Sc3ZnO8",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; LiScO2; Zn"
+    },
+    {
+        "composition": "Li13Sc5Zn2O16",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; LiScO2; Zn"
+    },
+    {
+        "composition": "Li17ScZn6O16",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; LiScO2; Zn"
+    },
+    {
+        "composition": "Li9ScZn2O8",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; LiScO2; Zn"
+    },
+    {
+        "composition": "Li5CaIn3O8",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; In"
+    },
+    {
+        "composition": "Li13Ca2In5O16",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; In"
+    },
+    {
+        "composition": "Li3CaInO4",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; In"
+    },
+    {
+        "composition": "Li9Ca2InO8",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; In"
+    },
+    {
+        "composition": "Li17Ca6InO16",
+        "V_min": "1.3722297449999996V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; In"
+    },
+    {
+        "composition": "Li28Zn9W3O32",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4WO5; Zn"
+    },
+    {
+        "composition": "Li6Zn2WO8",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4WO5; Zn"
+    },
+    {
+        "composition": "Li20Zn13W3O32",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4WO5; Zn"
+    },
+    {
+        "composition": "Li8Zn3W3O16",
+        "V_min": "2.082247419999999V",
+        "V_max": "3.605102068V",
+        "decomposition_products": "Li4WO5; ZnO; W"
+    },
+    {
+        "composition": "Li28Zn17W11O64",
+        "V_min": "2.082247419999999V",
+        "V_max": "3.605102068V",
+        "decomposition_products": "Li4WO5; ZnO; W"
+    },
+    {
+        "composition": "Li12Zn11W5O32",
+        "V_min": "2.082247419999999V",
+        "V_max": "3.605102068V",
+        "decomposition_products": "Li4WO5; ZnO; W"
+    },
+    {
+        "composition": "Li52Zn23W5O64",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4WO5; Zn"
+    },
+    {
+        "composition": "Li68Zn27WO64",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4WO5; Zn"
+    },
+    {
+        "composition": "Li12Zn7WO16",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4WO5; Zn"
+    },
+    {
+        "composition": "Li36Zn11WO32",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; Li4WO5; Zn"
+    },
+    {
+        "composition": "Li44Zn21W7O64",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li4WO5; Zn"
+    },
+    {
+        "composition": "Li14Y3Sc3O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li22Y7Sc7O32",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li8Ti3Sn3O16",
+        "V_min": "1.9843319327083349V",
+        "V_max": "3.4907850719999995V",
+        "decomposition_products": "Li2TiO3; Sn5O6; Li2SnO3"
+    },
+    {
+        "composition": "Li22La7Sc7O32",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li14La3Sc3O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li52Ca23W5O64",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; W"
+    },
+    {
+        "composition": "Li6Ca2WO8",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; W"
+    },
+    {
+        "composition": "Li28Ca17W11O64",
+        "V_min": "1.353904563749995V",
+        "V_max": "3.065667200833328V",
+        "decomposition_products": "Li4WO5; CaO; W"
+    },
+    {
+        "composition": "Li28Ca9W3O32",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; W"
+    },
+    {
+        "composition": "Li20Ca13W3O32",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; W"
+    },
+    {
+        "composition": "Li8Ca3W3O16",
+        "V_min": "1.353904563749995V",
+        "V_max": "3.605102068V",
+        "decomposition_products": "Li4WO5; CaO; W"
+    },
+    {
+        "composition": "Li12Ca11W5O32",
+        "V_min": "1.353904563749995V",
+        "V_max": "3.065667200833328V",
+        "decomposition_products": "Li4WO5; CaO; W"
+    },
+    {
+        "composition": "Li36Ca11WO32",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; W"
+    },
+    {
+        "composition": "Li44Ca21W7O64",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; W"
+    },
+    {
+        "composition": "Li68Ca27WO64",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; W"
+    },
+    {
+        "composition": "Li12Ca7WO16",
+        "V_min": "1.2028929533333323V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; CaO; W"
+    },
+    {
+        "composition": "Li3HfGa3O8",
+        "V_min": "1.470178196666671V",
+        "V_max": "3.7952269433333283V",
+        "decomposition_products": "LiGaO2; Li2HfO3; Ga"
+    },
+    {
+        "composition": "Li6Hf(GaO4)2",
+        "V_min": "1.0446394124999994V",
+        "V_max": "3.024368199583332V",
+        "decomposition_products": "Li6Hf2O7; Li5GaO4; Ga"
+    },
+    {
+        "composition": "Li7Hf4Ga3O16",
+        "V_min": "1.470178196666671V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "LiGaO2; Li2HfO3; Ga"
+    },
+    {
+        "composition": "Li6La7SbO16",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; Sb"
+    },
+    {
+        "composition": "Li8La3Sb3O16",
+        "V_min": "1.6344746833333372V",
+        "V_max": "3.1701879683333356V",
+        "decomposition_products": "Li5SbO5; La3SbO7; Sb"
+    },
+    {
+        "composition": "Li12La5SbO16",
+        "V_min": "1.348739983333333V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "Li2O; La2O3; Sb"
+    },
+    {
+        "composition": "Li7La5(SbO8)2",
+        "V_min": "1.624811861083337V",
+        "V_max": "3.1605251460833355V",
+        "decomposition_products": "Li5SbO5; La2O3; Sb"
+    },
+    {
+        "composition": "Li18ZrZn5O16",
+        "V_min": "1.3107710740476162V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6Zr2O7; Li6ZnO4; Zn"
+    },
+    {
+        "composition": "Li10Zr3Zn5O16",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Zr2O7; Zn"
+    },
+    {
+        "composition": "Li6Zr5Zn3O16",
+        "V_min": "1.6093221683333356V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Li2ZrO3; Zn; ZnO"
+    },
+    {
+        "composition": "Li14Zr11Zn3O32",
+        "V_min": "1.6093221683333356V",
+        "V_max": "3.3706612466666677V",
+        "decomposition_products": "Li2ZrO3; ZrO2; Zn"
+    },
+    {
+        "composition": "Li34ZrZn13O32",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Zr2O7; Zn"
+    },
+    {
+        "composition": "Li6ZrZn3O8",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Zr2O7; Zn"
+    },
+    {
+        "composition": "Li14Zr3Zn3O16",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Zr2O7; Zn"
+    },
+    {
+        "composition": "Li22Zr7Zn7O32",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Zr2O7; Zn"
+    },
+    {
+        "composition": "Li26Zr5Zn9O32",
+        "V_min": "1.3577962463333335V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li10Zn4O9; Li6Zr2O7; Zn"
+    },
+    {
+        "composition": "Li6Zr2ZnO8",
+        "V_min": "1.3577962463333335V",
+        "V_max": "3.1983148083333184V",
+        "decomposition_products": "Li10Zn4O9; Li6Zr2O7; Zn"
+    },
+    {
+        "composition": "Li28Zn9Te3O32",
+        "V_min": "1.7688854673333327V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li6TeO6; Li10Zn4O9; ZnTe"
+    },
+    {
+        "composition": "Li52Zn23Te5O64",
+        "V_min": "1.7688854673333327V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li6TeO6; Li10Zn4O9; ZnTe"
+    },
+    {
+        "composition": "Li44Zn21Te7O64",
+        "V_min": "1.7688854673333327V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li6TeO6; Li10Zn4O9; ZnTe"
+    },
+    {
+        "composition": "Li68Zn27TeO64",
+        "V_min": "1.7688854673333327V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li6TeO6; Li10Zn4O9; ZnTe"
+    },
+    {
+        "composition": "Li6Zn2TeO8",
+        "V_min": "1.7688854673333327V",
+        "V_max": "3.303614425333331V",
+        "decomposition_products": "Li6TeO6; Li10Zn4O9; ZnTe"
+    },
+    {
+        "composition": "Li20Zn13Te3O32",
+        "V_min": "1.7688854673333327V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li6TeO6; Li10Zn4O9; ZnTe"
+    },
+    {
+        "composition": "Li28Zn17Te11O64",
+        "V_min": "2.9365076720833354V",
+        "V_max": "3.687030725333334V",
+        "decomposition_products": "Li2TeO3; Li4TeO5; ZnO"
+    },
+    {
+        "composition": "Li12Zn7TeO16",
+        "V_min": "1.7688854673333327V",
+        "V_max": "2.9970502443333356V",
+        "decomposition_products": "Li6TeO6; Li10Zn4O9; ZnTe"
+    },
+    {
+        "composition": "Li12Zn11Te5O32",
+        "V_min": "2.9365076720833354V",
+        "V_max": "3.687030725333334V",
+        "decomposition_products": "Li2TeO3; Li4TeO5; ZnO"
+    },
+    {
+        "composition": "Li8Zn3Te3O16",
+        "V_min": "2.9365076720833354V",
+        "V_max": "3.687030725333334V",
+        "decomposition_products": "Li2TeO3; Li4TeO5; ZnO"
+    },
+    {
+        "composition": "Li36Zn11TeO32",
+        "V_min": "1.7257790594047593V",
+        "V_max": "2.955250091190474V",
+        "decomposition_products": "Li6ZnO4; Li10Zn4O9; ZnTe"
+    },
+    {
+        "composition": "Li14Ca3Hf11O32",
+        "V_min": "0.46665014395833526V",
+        "V_max": "3.4573675333333362V",
+        "decomposition_products": "Li2HfO3; CaHfO3; Hf"
+    },
+    {
+        "composition": "Li6CaHf2O8",
+        "V_min": "-0.0V",
+        "V_max": "3.1747553183333235V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li6Ca3Hf5O16",
+        "V_min": "0.14173633833332988V",
+        "V_max": "3.2263177159999987V",
+        "decomposition_products": "Li2HfO3; CaO; Hf"
+    },
+    {
+        "composition": "Li10Ca5Hf3O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li6Ca3HfO8",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li14Ca3Hf3O16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li22Ca7Hf7O32",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li26Ca9Hf5O32",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li18Ca5HfO16",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li34Ca13HfO32",
+        "V_min": "-0.0V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Li12Sc5NbO16",
+        "V_min": "0.6216146527083317V",
+        "V_max": "2.884453268333333V",
+        "decomposition_products": "LiNbO2; Li2O; LiScO2"
+    },
+    {
+        "composition": "Li8Sc3Nb3O16",
+        "V_min": "1.743564742083329V",
+        "V_max": "3.60465775733333V",
+        "decomposition_products": "LiNbO2; Li3NbO4; Sc2O3"
+    },
+    {
+        "composition": "Li7Sc5Nb2O16",
+        "V_min": "1.4176846658333326V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "LiNbO2; Li3NbO4; LiScO2"
+    },
+    {
+        "composition": "Li6Sc7NbO16",
+        "V_min": "1.4176846658333326V",
+        "V_max": "3.430855049999999V",
+        "decomposition_products": "LiNbO2; LiScO2"
+    }
+]

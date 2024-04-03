@@ -1,0 +1,3716 @@
+[
+    {
+        "composition": "Na3YMgO4",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na13Y5Mg2O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na17YMg6O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9YMg2O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na5Y3MgO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na8Nb3Ga3O16",
+        "V_min": "0.9494989048850597V",
+        "V_max": "2.933606655301724V",
+        "decomposition_products": "Na3NbO4; NaGaO2; Ga"
+    },
+    {
+        "composition": "Na12NbGa5O16",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na3NbO4; Na7Ga13; Na8Ga2O7"
+    },
+    {
+        "composition": "Na7Nb2Ga5O16",
+        "V_min": "0.9494989048850597V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "Na3NbO4; NaGaO2; Ga"
+    },
+    {
+        "composition": "Na6NbGa7O16",
+        "V_min": "1.3226076765517243V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "NaGaO2; NaNbO3; Ga"
+    },
+    {
+        "composition": "Na8Hf3Ti3O16",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3CaLaO4",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na13Ca2La5O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na5CaLa3O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Ca2LaO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na17Ca6LaO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3MgScO4",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na13Mg2Sc5O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na5MgSc3O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na17Mg6ScO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Mg2ScO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na8Zr3Sn3O16",
+        "V_min": "1.2368614921767243V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "Na2ZrO3; Na2SnO3; Sn"
+    },
+    {
+        "composition": "Na21La17(MoO12)4",
+        "V_min": "0.760226658010051V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": "NaLaO2; Na4MoO5; Mo"
+    },
+    {
+        "composition": "Na4La2MoO8",
+        "V_min": "0.760226658010051V",
+        "V_max": "2.5024907065517175V",
+        "decomposition_products": "NaLaO2; Na4MoO5; Mo"
+    },
+    {
+        "composition": "Na9La11MoO24",
+        "V_min": "0.760226658010051V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": "NaLaO2; Na4MoO5; Mo"
+    },
+    {
+        "composition": "Na18La8MoO24",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaLaO2; Na2O; Mo"
+    },
+    {
+        "composition": "Na39Ca16Nb5O48",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na33Ca14Nb7O48",
+        "V_min": "-0.0V",
+        "V_max": "1.9043881557183993V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na5Ca3NbO8",
+        "V_min": "-0.0V",
+        "V_max": "1.9043881557183993V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Ca5NbO12",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18Ca5Nb4O24",
+        "V_min": "-0.0V",
+        "V_max": "1.9043881557183993V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Ca7Nb5O24",
+        "V_min": "0.5449034619683781V",
+        "V_max": "2.764548576135052V",
+        "decomposition_products": "NaNbO2; Na3NbO4; CaO"
+    },
+    {
+        "composition": "Na4CaNb2O8",
+        "V_min": "0.8753779453017223V",
+        "V_max": "2.933606655301724V",
+        "decomposition_products": "Ca4Nb2O9; NaNbO2; Na3NbO4"
+    },
+    {
+        "composition": "Na21Ca10Nb11O48",
+        "V_min": "0.5449034619683781V",
+        "V_max": "2.764548576135052V",
+        "decomposition_products": "NaNbO2; Na3NbO4; CaO"
+    },
+    {
+        "composition": "Na7Ca2NbO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na27Ca8NbO24",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na51Ca20NbO48",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3HfSc3O8",
+        "V_min": "-0.0V",
+        "V_max": "2.8604713696767234V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Hf4Sc3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7563702382183906V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6HfSc2O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na22La7Ga7O32",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "NaLaO2; Na7Ga13; Na8Ga2O7"
+    },
+    {
+        "composition": "Na14La3Ga3O16",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "NaLaO2; Na7Ga13; Na8Ga2O7"
+    },
+    {
+        "composition": "Na22Ca7Sn7O32",
+        "V_min": "0.40987813530172423V",
+        "V_max": "1.756200000718395V",
+        "decomposition_products": "Na4SnO3; Na4SnO4; CaO"
+    },
+    {
+        "composition": "Na26Ca9Sn5O32",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na4SnO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na6Ca(SnO4)2",
+        "V_min": "0.40987813530172423V",
+        "V_max": "1.756200000718395V",
+        "decomposition_products": "Na4SnO3; Na4SnO4; CaO"
+    },
+    {
+        "composition": "Na6Ca3Sn5O16",
+        "V_min": "1.2725445215517255V",
+        "V_max": "2.921170850301726V",
+        "decomposition_products": "Ca2SnO4; Na2SnO3; Sn"
+    },
+    {
+        "composition": "Na10Ca5Sn3O16",
+        "V_min": "0.40987813530172423V",
+        "V_max": "1.756200000718395V",
+        "decomposition_products": "Na4SnO3; Na4SnO4; CaO"
+    },
+    {
+        "composition": "Na6Ca3SnO8",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na4SnO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na14Ca3Sn3O16",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na4SnO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na14Ca3Sn11O32",
+        "V_min": "1.436060615301744V",
+        "V_max": "3.012390860301733V",
+        "decomposition_products": "CaSnO3; Na2SnO3; SnO"
+    },
+    {
+        "composition": "Na18Ca5SnO16",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na4SnO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na34Ca13SnO32",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na4SnO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na14Mg3Zr11O32",
+        "V_min": "0.08323062505172696V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "Na2ZrO3; Zr3O; MgO"
+    },
+    {
+        "composition": "Na34Mg13ZrO32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na14Mg3Zr3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Mg3Zr5O16",
+        "V_min": "0.08323062505172696V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "Na2ZrO3; Zr3O; MgO"
+    },
+    {
+        "composition": "Na10Mg5Zr3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18Mg5ZrO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na22Mg7Zr7O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Mg3ZrO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na26Mg9Zr5O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6MgZr2O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na28Mg17Te11O64",
+        "V_min": "1.980586920301722V",
+        "V_max": "2.910543217801723V",
+        "decomposition_products": "Na4TeO5; Na2TeO3; MgO"
+    },
+    {
+        "composition": "Na28Mg9Te3O32",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; MgO"
+    },
+    {
+        "composition": "Na8Mg3Te3O16",
+        "V_min": "1.980586920301722V",
+        "V_max": "3.0542824821767223V",
+        "decomposition_products": "Na4TeO5; Na2TeO3; MgO"
+    },
+    {
+        "composition": "Na36Mg11TeO32",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; MgO"
+    },
+    {
+        "composition": "Na52Mg23Te5O64",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; MgO"
+    },
+    {
+        "composition": "Na44Mg21Te7O64",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; MgO"
+    },
+    {
+        "composition": "Na68Mg27TeO64",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; MgO"
+    },
+    {
+        "composition": "Na12Mg11Te5O32",
+        "V_min": "1.980586920301722V",
+        "V_max": "2.910543217801723V",
+        "decomposition_products": "Na4TeO5; Na2TeO3; MgO"
+    },
+    {
+        "composition": "Na6Mg2TeO8",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; MgO"
+    },
+    {
+        "composition": "Na12Mg7TeO16",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; MgO"
+    },
+    {
+        "composition": "Na20Mg13Te3O32",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; MgO"
+    },
+    {
+        "composition": "Na6La2TiO8",
+        "V_min": "-0.0V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3La3TiO8",
+        "V_min": "-0.0V",
+        "V_max": "2.555798216135056V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7La3Ti4O16",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3ZrIn3O8",
+        "V_min": "1.2157504398850587V",
+        "V_max": "2.949618854051722V",
+        "decomposition_products": "NaInO2; Na2ZrO3; In"
+    },
+    {
+        "composition": "Na7Zr4In3O16",
+        "V_min": "1.2157504398850587V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "NaInO2; Na2ZrO3; In"
+    },
+    {
+        "composition": "Na6ZrIn2O8",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; Na2ZrO3; In"
+    },
+    {
+        "composition": "Na18In8TeO24",
+        "V_min": "0.8294006553017244V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; NaInO2; Na2Te"
+    },
+    {
+        "composition": "Na9In11TeO24",
+        "V_min": "2.0587381928017177V",
+        "V_max": "2.949618854051721V",
+        "decomposition_products": "NaInO2; Na2TeO3; In2O3"
+    },
+    {
+        "composition": "Na21In17(TeO12)4",
+        "V_min": "2.0587381928017177V",
+        "V_max": "2.949618854051721V",
+        "decomposition_products": "NaInO2; Na2TeO3; Na4TeO5"
+    },
+    {
+        "composition": "Na4In2TeO8",
+        "V_min": "2.0587381928017177V",
+        "V_max": "3.0542824821767223V",
+        "decomposition_products": "NaInO2; Na2TeO3; Na4TeO5"
+    },
+    {
+        "composition": "Na7Ga3(SnO4)4",
+        "V_min": "1.5286950659267264V",
+        "V_max": "3.0572005003017244V",
+        "decomposition_products": "Sn5O6; Na2SnO3; NaGaO2"
+    },
+    {
+        "composition": "Na6Ga2SnO8",
+        "V_min": "0.45395509988505367V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na8Ga2O7; Na2SnO2; NaGaO2"
+    },
+    {
+        "composition": "Na3Ga3SnO8",
+        "V_min": "1.5286950659267264V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "Sn5O6; Na2SnO3; NaGaO2"
+    },
+    {
+        "composition": "Na22Sc7In7O32",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; NaScO2; In"
+    },
+    {
+        "composition": "Na14Sc3In3O16",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; NaScO2; In"
+    },
+    {
+        "composition": "Na7Ga3O8",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na8Ga2O7; Na7Ga13"
+    },
+    {
+        "composition": "Na11Ga7O16",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na8Ga2O7; Na7Ga13"
+    },
+    {
+        "composition": "Na4CaZnO4",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaZn13; CaO"
+    },
+    {
+        "composition": "Na5CaGa3O8",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na7Ga13; Na8Ga2O7; CaO"
+    },
+    {
+        "composition": "Na17Ca6GaO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3CaGaO4",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na7Ga13; Na8Ga2O7; CaO"
+    },
+    {
+        "composition": "Na13Ca2Ga5O16",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na7Ga13; Na8Ga2O7; CaO"
+    },
+    {
+        "composition": "Na9Ca2GaO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na21Ga17(WO12)4",
+        "V_min": "1.7217806397870137V",
+        "V_max": "3.2134382340517273V",
+        "decomposition_products": "Na2WO4; Na17(WO3)19; NaGaO2"
+    },
+    {
+        "composition": "Na4Ga2WO8",
+        "V_min": "1.3322771840517131V",
+        "V_max": "3.2134382340517273V",
+        "decomposition_products": "Na4WO5; NaGaO2; W"
+    },
+    {
+        "composition": "Na18Ga8WO24",
+        "V_min": "0.3467621229406135V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na8Ga2O7; NaGaO2; W"
+    },
+    {
+        "composition": "Na9Ga11WO24",
+        "V_min": "1.7217806397870137V",
+        "V_max": "3.2134382340517273V",
+        "decomposition_products": "Na17(WO3)19; Ga2O3; NaGaO2"
+    },
+    {
+        "composition": "Na12Mg11Mo5O32",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.5024907065517175V",
+        "decomposition_products": "Na4MoO5; NaMoO2; MgO"
+    },
+    {
+        "composition": "Na28Mg17Mo11O64",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.5024907065517175V",
+        "decomposition_products": "Na4MoO5; NaMoO2; MgO"
+    },
+    {
+        "composition": "Na36Mg11MoO32",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; Mo"
+    },
+    {
+        "composition": "Na12Mg7MoO16",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; Mo"
+    },
+    {
+        "composition": "Na20Mg13Mo3O32",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; Mo"
+    },
+    {
+        "composition": "Na8Mg3Mo3O16",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.5024907065517175V",
+        "decomposition_products": "Na4MoO5; NaMoO2; MgO"
+    },
+    {
+        "composition": "Na28Mg9Mo3O32",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; Mo"
+    },
+    {
+        "composition": "Na68Mg27MoO64",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; Mo"
+    },
+    {
+        "composition": "Na6Mg2MoO8",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; Mo"
+    },
+    {
+        "composition": "Na44Mg21Mo7O64",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; Mo"
+    },
+    {
+        "composition": "Na52Mg23Mo5O64",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; Mo"
+    },
+    {
+        "composition": "Na6Y2HfO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Y3Hf4O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7899858482184163V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3Y3HfO8",
+        "V_min": "-0.0V",
+        "V_max": "2.550074174051721V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na22Y7In7O32",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; NaYO2; In"
+    },
+    {
+        "composition": "Na14Y3In3O16",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; NaYO2; In"
+    },
+    {
+        "composition": "Na14La3Y3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na22La7Y7O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18In8MoO24",
+        "V_min": "0.3378632548850553V",
+        "V_max": "1.8320308932183889V",
+        "decomposition_products": "Na5InO4; NaInO2; Mo"
+    },
+    {
+        "composition": "Na21In17(MoO12)4",
+        "V_min": "1.428004841551717V",
+        "V_max": "2.9496188540517245V",
+        "decomposition_products": "NaMoO2; Na2MoO4; NaInO2"
+    },
+    {
+        "composition": "Na4In2MoO8",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.9496188540517245V",
+        "decomposition_products": "NaMoO2; Na4MoO5; NaInO2"
+    },
+    {
+        "composition": "Na9In11MoO24",
+        "V_min": "1.428004841551717V",
+        "V_max": "2.9496188540517245V",
+        "decomposition_products": "NaMoO2; NaInO2"
+    },
+    {
+        "composition": "Na14Mg3Ti3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na26Mg9Ti5O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6MgTi2O8",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na22Mg7Ti7O32",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na10Mg5Ti3O16",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Mg3Ti5O16",
+        "V_min": "0.4753833999892205V",
+        "V_max": "2.9465357487392216V",
+        "decomposition_products": "Na8Ti5O14; MgO; TiO"
+    },
+    {
+        "composition": "Na6Mg3TiO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na14Mg3Ti11O32",
+        "V_min": "0.5418722365517357V",
+        "V_max": "2.971726208114233V",
+        "decomposition_products": "NaTi2O4; Mg2TiO4; Na8Ti5O14"
+    },
+    {
+        "composition": "Na34Mg13TiO32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18Mg5TiO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3TiIn3O8",
+        "V_min": "1.2853993598850566V",
+        "V_max": "2.9496188540517245V",
+        "decomposition_products": "NaInO2; Na8Ti5O14; In"
+    },
+    {
+        "composition": "Na7Ti4In3O16",
+        "V_min": "1.2853993598850566V",
+        "V_max": "2.9496188540517245V",
+        "decomposition_products": "NaInO2; Na8Ti5O14; In"
+    },
+    {
+        "composition": "Na6TiIn2O8",
+        "V_min": "0.31752033321839024V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": "Na5InO4; Na4TiO4; In"
+    },
+    {
+        "composition": "Na3La3ZrO8",
+        "V_min": "-0.0V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7La3Zr4O16",
+        "V_min": "-0.0V",
+        "V_max": "2.6998606619683923V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6La2ZrO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18La8TeO24",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaLaO2; Na2O; Na2Te"
+    },
+    {
+        "composition": "Na9La11TeO24",
+        "V_min": "1.1461732076454731V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": "NaLaO2; Na4TeO5; Na2Te"
+    },
+    {
+        "composition": "Na4La2TeO8",
+        "V_min": "1.1461732076454731V",
+        "V_max": "2.7870960574892267V",
+        "decomposition_products": "NaLaO2; Na4TeO5; Na2Te"
+    },
+    {
+        "composition": "Na21La17(TeO12)4",
+        "V_min": "1.1461732076454731V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": "NaLaO2; Na4TeO5; Na2Te"
+    },
+    {
+        "composition": "Na27Ca8TaO24",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na21Ca10Ta11O48",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.809887954885049V",
+        "decomposition_products": "Na3Ca2TaO6; Na5TaO5; Ta"
+    },
+    {
+        "composition": "Na4CaTa2O8",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na3Ca2TaO6; Na5TaO5; Ta"
+    },
+    {
+        "composition": "Na5Ca3TaO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Ca7Ta5O24",
+        "V_min": "0.30320417005171363V",
+        "V_max": "2.809887954885049V",
+        "decomposition_products": "Na3Ca2TaO6; NaTaO3; Ta"
+    },
+    {
+        "composition": "Na9Ca5TaO12",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18Ca5Ta4O24",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na51Ca20TaO48",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Ca2TaO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na33Ca14Ta7O48",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na39Ca16Ta5O48",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18Y8WO24",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaYO2; Na2O; W"
+    },
+    {
+        "composition": "Na21Y17(WO12)4",
+        "V_min": "0.7579737475933894V",
+        "V_max": "2.550074174051721V",
+        "decomposition_products": "NaYO2; Na4WO5; W"
+    },
+    {
+        "composition": "Na4Y2WO8",
+        "V_min": "0.7579737475933894V",
+        "V_max": "2.8187782243642294V",
+        "decomposition_products": "NaYO2; Na4WO5; W"
+    },
+    {
+        "composition": "Na9Y11WO24",
+        "V_min": "0.7579737475933894V",
+        "V_max": "2.550074174051721V",
+        "decomposition_products": "NaYO2; Na4WO5; W"
+    },
+    {
+        "composition": "Na4Hf3O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Zn2SbO8",
+        "V_min": "0.7271604378017404V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; Na3SbO4; Na3SbO3"
+    },
+    {
+        "composition": "Na18Zn5(SbO6)4",
+        "V_min": "0.7724615028017217V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Na3SbO4; Na3SbO3"
+    },
+    {
+        "composition": "Na9Zn7Sb5O24",
+        "V_min": "1.452909244051719V",
+        "V_max": "2.8711568815517223V",
+        "decomposition_products": "Na3SbO4; ZnO; Na2Sb4O7"
+    },
+    {
+        "composition": "Na39Zn16Sb5O48",
+        "V_min": "0.7724615028017217V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Na3SbO4; Na3SbO3"
+    },
+    {
+        "composition": "Na21Zn10Sb11O48",
+        "V_min": "1.452909244051719V",
+        "V_max": "2.8711568815517223V",
+        "decomposition_products": "Na3SbO4; ZnO; Na2Sb4O7"
+    },
+    {
+        "composition": "Na4Zn(SbO4)2",
+        "V_min": "1.452909244051719V",
+        "V_max": "2.8711568815517223V",
+        "decomposition_products": "Na3SbO4; ZnO; Na2Sb4O7"
+    },
+    {
+        "composition": "Na33Zn14Sb7O48",
+        "V_min": "0.8935042478017305V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; Na3SbO4; Na3SbO3"
+    },
+    {
+        "composition": "Na9Zn5SbO12",
+        "V_min": "0.7724615028017217V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2Zn2O3; Na2ZnO2; Na3SbO3"
+    },
+    {
+        "composition": "Na5Zn3SbO8",
+        "V_min": "0.8935042478017305V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; Na3SbO4; Na3SbO3"
+    },
+    {
+        "composition": "Na51Zn20SbO48",
+        "V_min": "0.7271604378017404V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; Na3SbO3"
+    },
+    {
+        "composition": "Na27Zn8SbO24",
+        "V_min": "0.6802071049445833V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na10Zn4O9; Na6ZnO4; Na3SbO3"
+    },
+    {
+        "composition": "Na7Ta2Ga5O16",
+        "V_min": "0.48092190039787686V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "NaGa4; Na5TaO5; NaGaO2"
+    },
+    {
+        "composition": "Na6TaGa7O16",
+        "V_min": "1.3226076765517243V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "NaGaO2; NaTaO3; Ga"
+    },
+    {
+        "composition": "Na8Ta3Ga3O16",
+        "V_min": "0.48092190039787686V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "NaGa4; Na5TaO5; NaGaO2"
+    },
+    {
+        "composition": "Na12TaGa5O16",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na7Ga13; Na5TaO5; Na8Ga2O7"
+    },
+    {
+        "composition": "Na5NbZn3O8",
+        "V_min": "0.6203869961813533V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na3NbO4; NaZn13; Na2Zn2O3"
+    },
+    {
+        "composition": "Na9NbZn5O12",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Na3NbO4; NaZn13"
+    },
+    {
+        "composition": "Na27NbZn8O24",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na5NbO5; NaZn13; Na6ZnO4"
+    },
+    {
+        "composition": "Na7NbZn2O8",
+        "V_min": "0.39681459469988156V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Na5NbO5; NaZn13"
+    },
+    {
+        "composition": "Na4Nb2ZnO8",
+        "V_min": "1.142707542801724V",
+        "V_max": "2.933606655301724V",
+        "decomposition_products": "Na3NbO4; Zn"
+    },
+    {
+        "composition": "Na51NbZn20O48",
+        "V_min": "0.358300980070263V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; Na5NbO5; NaZn13"
+    },
+    {
+        "composition": "Na21Nb11Zn10O48",
+        "V_min": "1.142707542801724V",
+        "V_max": "2.933606655301724V",
+        "decomposition_products": "Na3NbO4; Zn; ZnO"
+    },
+    {
+        "composition": "Na9Nb5Zn7O24",
+        "V_min": "1.142707542801724V",
+        "V_max": "2.933606655301724V",
+        "decomposition_products": "Na3NbO4; Zn; ZnO"
+    },
+    {
+        "composition": "Na39Nb5Zn16O48",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Na3NbO4; NaZn13"
+    },
+    {
+        "composition": "Na33Nb7Zn14O48",
+        "V_min": "0.6203869961813533V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na3NbO4; NaZn13; Na2Zn2O3"
+    },
+    {
+        "composition": "Na18Nb4Zn5O24",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Na3NbO4; NaZn13"
+    },
+    {
+        "composition": "Na5CaY3O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3CaYO4",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na13Ca2Y5O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Ca2YO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na17Ca6YO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Y2TiO8",
+        "V_min": "-0.0V",
+        "V_max": "2.5500741740517237V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Y3Ti4O16",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3Y3TiO8",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na2MgO2",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Sc11TeO24",
+        "V_min": "1.8804432240517197V",
+        "V_max": "2.8604713696767226V",
+        "decomposition_products": "NaScO2; Na2TeO3; Sc2O3"
+    },
+    {
+        "composition": "Na21Sc17(TeO12)4",
+        "V_min": "1.8804432240517197V",
+        "V_max": "2.8604713696767226V",
+        "decomposition_products": "Na4TeO5; NaScO2; Na2TeO3"
+    },
+    {
+        "composition": "Na4Sc2TeO8",
+        "V_min": "1.8804432240517197V",
+        "V_max": "3.0542824821767223V",
+        "decomposition_products": "Na4TeO5; NaScO2; Na2TeO3"
+    },
+    {
+        "composition": "Na18Sc8TeO24",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaScO2; Na2O; Na2Te"
+    },
+    {
+        "composition": "Na7Zr4Sc3O16",
+        "V_min": "0.08323062505172696V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "Na2ZrO3; Zr3O; Sc2O3"
+    },
+    {
+        "composition": "Na3ZrSc3O8",
+        "V_min": "0.024173354051719276V",
+        "V_max": "2.8604713696767243V",
+        "decomposition_products": "NaScO2; Na2ZrO3; Zr3O"
+    },
+    {
+        "composition": "Na6ZrSc2O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na13Mg2In5O16",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; MgO; In"
+    },
+    {
+        "composition": "Na5MgIn3O8",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; MgO; In"
+    },
+    {
+        "composition": "Na3MgInO4",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; MgO; In"
+    },
+    {
+        "composition": "Na17Mg6InO16",
+        "V_min": "0.17393995655172367V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; NaIn; MgO"
+    },
+    {
+        "composition": "Na9Mg2InO8",
+        "V_min": "0.17393995655172367V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; NaIn; MgO"
+    },
+    {
+        "composition": "Na3LaZnO4",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaLaO2; NaZn13"
+    },
+    {
+        "composition": "Na13La5Zn2O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaLaO2; NaZn13"
+    },
+    {
+        "composition": "Na5La3ZnO8",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaLaO2; NaZn13"
+    },
+    {
+        "composition": "Na9LaZn2O8",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaLaO2; NaZn13"
+    },
+    {
+        "composition": "Na17LaZn6O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaLaO2; NaZn13"
+    },
+    {
+        "composition": "Na8Zr3Ti3O16",
+        "V_min": "0.3869069475517235V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "Na2ZrO3; Na8Ti5O14; TiO"
+    },
+    {
+        "composition": "Na11In7O16",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; In"
+    },
+    {
+        "composition": "Na7In3O8",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; In"
+    },
+    {
+        "composition": "Na4Sc2WO8",
+        "V_min": "1.1962948934267212V",
+        "V_max": "2.942060744051717V",
+        "decomposition_products": "NaScO2; Na4WO5; W"
+    },
+    {
+        "composition": "Na18Sc8WO24",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaScO2; Na2O; W"
+    },
+    {
+        "composition": "Na21Sc17(WO12)4",
+        "V_min": "1.1962948934267212V",
+        "V_max": "2.8604713696767208V",
+        "decomposition_products": "NaScO2; Na4WO5; W"
+    },
+    {
+        "composition": "Na9Sc11WO24",
+        "V_min": "1.1962948934267212V",
+        "V_max": "2.8604713696767208V",
+        "decomposition_products": "NaScO2; Na4WO5; W"
+    },
+    {
+        "composition": "Na3YZnO4",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaYO2; NaZn13"
+    },
+    {
+        "composition": "Na17YZn6O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaYO2; NaZn13"
+    },
+    {
+        "composition": "Na13Y5Zn2O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaYO2; NaZn13"
+    },
+    {
+        "composition": "Na5Y3ZnO8",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaYO2; NaZn13"
+    },
+    {
+        "composition": "Na9YZn2O8",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaYO2; NaZn13"
+    },
+    {
+        "composition": "Na11Sc7O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Sc3O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na4Sn3O8",
+        "V_min": "1.5286950659267264V",
+        "V_max": "3.0572005003017244V",
+        "decomposition_products": "Sn5O6; Na2SnO3"
+    },
+    {
+        "composition": "Na3HfIn3O8",
+        "V_min": "0.31752033321839024V",
+        "V_max": "2.949618854051722V",
+        "decomposition_products": "Na5InO4; HfO2; In"
+    },
+    {
+        "composition": "Na7Hf4In3O16",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; HfO2; In"
+    },
+    {
+        "composition": "Na6HfIn2O8",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; HfO2; In"
+    },
+    {
+        "composition": "Na9Y11MoO24",
+        "V_min": "0.9584846123850499V",
+        "V_max": "2.550074174051721V",
+        "decomposition_products": "NaMoO2; NaYO2"
+    },
+    {
+        "composition": "Na4Y2MoO8",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.550074174051721V",
+        "decomposition_products": "Na4MoO5; NaMoO2; NaYO2"
+    },
+    {
+        "composition": "Na21Y17(MoO12)4",
+        "V_min": "0.9584846123850499V",
+        "V_max": "2.550074174051721V",
+        "decomposition_products": "NaMoO2; NaYO2; Na2MoO4"
+    },
+    {
+        "composition": "Na18Y8MoO24",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaYO2; Na2O; Mo"
+    },
+    {
+        "composition": "Na6Zn(SnO4)2",
+        "V_min": "0.4098781353017231V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Na4SnO3"
+    },
+    {
+        "composition": "Na14Zn3Sn11O32",
+        "V_min": "1.5286950659267264V",
+        "V_max": "3.0572005003017244V",
+        "decomposition_products": "Sn5O6; ZnO; Na2SnO3"
+    },
+    {
+        "composition": "Na10Zn5Sn3O16",
+        "V_min": "0.6203869961813537V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; NaZn13; Na2SnO3"
+    },
+    {
+        "composition": "Na6Zn3Sn5O16",
+        "V_min": "1.5286950659267264V",
+        "V_max": "3.0572005003017244V",
+        "decomposition_products": "Sn5O6; ZnO; Na2SnO3"
+    },
+    {
+        "composition": "Na6Zn3SnO8",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; NaZn13; Na2SnO3"
+    },
+    {
+        "composition": "Na22Zn7Sn7O32",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; NaZn13; Na2SnO3"
+    },
+    {
+        "composition": "Na26Zn9Sn5O32",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; NaZn13; Na2SnO3"
+    },
+    {
+        "composition": "Na14Zn3Sn3O16",
+        "V_min": "0.4098781353017247V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na10Zn4O9; Na6ZnO4; Na4SnO3"
+    },
+    {
+        "composition": "Na34Zn13SnO32",
+        "V_min": "0.40987813530172423V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; Na2ZnO2; Na4SnO3"
+    },
+    {
+        "composition": "Na18Zn5SnO16",
+        "V_min": "0.4098781353017247V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na10Zn4O9; Na6ZnO4; Na4SnO3"
+    },
+    {
+        "composition": "Na14Hf11Mg3O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na34HfMg13O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Hf5Mg3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na10Hf3Mg5O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18HfMg5O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6HfMg3O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Hf2MgO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na14Hf3Mg3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na26Hf5Mg9O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na22Hf7Mg7O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Sc2TiO8",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Sc3Ti4O16",
+        "V_min": "0.32046751767671955V",
+        "V_max": "2.8604713696767234V",
+        "decomposition_products": "NaScO2; Na8Ti5O14; TiO"
+    },
+    {
+        "composition": "Na3Sc3TiO8",
+        "V_min": "0.32046751767671955V",
+        "V_max": "2.8604713696767234V",
+        "decomposition_products": "NaScO2; Na8Ti5O14; TiO"
+    },
+    {
+        "composition": "Na2CaO2",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3Y3ZrO8",
+        "V_min": "-0.0V",
+        "V_max": "2.550074174051721V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Y3Zr4O16",
+        "V_min": "-0.0V",
+        "V_max": "2.808844039468389V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Y2ZrO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na21Y17(TeO12)4",
+        "V_min": "1.3544578490517203V",
+        "V_max": "2.5500741740517228V",
+        "decomposition_products": "Na4TeO5; NaYO2; Na2TeO3"
+    },
+    {
+        "composition": "Na4Y2TeO8",
+        "V_min": "1.3544578490517203V",
+        "V_max": "2.754069495614228V",
+        "decomposition_products": "Na4TeO5; NaYO2; Na2TeO3"
+    },
+    {
+        "composition": "Na9Y11TeO24",
+        "V_min": "1.3544578490517203V",
+        "V_max": "2.5500741740517228V",
+        "decomposition_products": "NaYO2; Na2TeO3; Y2O3"
+    },
+    {
+        "composition": "Na18Y8TeO24",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaYO2; Na2O; Na2Te"
+    },
+    {
+        "composition": "Na3ZnGaO4",
+        "V_min": "0.5402450812739454V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na2Zn2O3; NaZn13; Na8Ga2O7"
+    },
+    {
+        "composition": "Na17Zn6GaO16",
+        "V_min": "0.3583009800702648V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; NaZn13; Na8Ga2O7"
+    },
+    {
+        "composition": "Na9Zn2GaO8",
+        "V_min": "0.2887984192369024V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; Na5GaO4; NaZn13"
+    },
+    {
+        "composition": "Na5ZnGa3O8",
+        "V_min": "0.5402450812739454V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "NaZn13; Na8Ga2O7; NaGaO2"
+    },
+    {
+        "composition": "Na13Zn2Ga5O16",
+        "V_min": "0.5402450812739454V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "NaZn13; Na8Ga2O7; NaGaO2"
+    },
+    {
+        "composition": "Na4Ti3O8",
+        "V_min": "0.6590821195517205V",
+        "V_max": "3.008354296551726V",
+        "decomposition_products": "NaTi2O4; Na8Ti5O14"
+    },
+    {
+        "composition": "Na4MgZnO4",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaZn13; MgO"
+    },
+    {
+        "composition": "Na51Ca20SbO48",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na5Ca3SbO8",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na9Ca5SbO12",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na39Ca16Sb5O48",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na27Ca8SbO24",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na33Ca14Sb7O48",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na21Ca10Sb11O48",
+        "V_min": "1.2839913921767214V",
+        "V_max": "2.792261443218389V",
+        "decomposition_products": "Na2Sb4O7; Na3SbO4; CaO"
+    },
+    {
+        "composition": "Na18Ca5(SbO6)4",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na7Ca2SbO8",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; CaO"
+    },
+    {
+        "composition": "Na4Ca(SbO4)2",
+        "V_min": "1.2839913921767214V",
+        "V_max": "2.792261443218389V",
+        "decomposition_products": "Na2Sb4O7; Na3SbO4; CaO"
+    },
+    {
+        "composition": "Na9Ca7Sb5O24",
+        "V_min": "1.2839913921767214V",
+        "V_max": "2.792261443218389V",
+        "decomposition_products": "Na2Sb4O7; Na3SbO4; CaO"
+    },
+    {
+        "composition": "Na3La3HfO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6La2HfO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7La3Hf4O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na39Ta5Zn16O48",
+        "V_min": "0.620386996181354V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na5TaO5; NaZn13; Na2Zn2O3"
+    },
+    {
+        "composition": "Na5TaZn3O8",
+        "V_min": "0.620386996181354V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; NaZn13; Na2Zn2O3"
+    },
+    {
+        "composition": "Na33Ta7Zn14O48",
+        "V_min": "0.7767676571767217V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; Zn; ZnO"
+    },
+    {
+        "composition": "Na21Ta11Zn10O48",
+        "V_min": "0.7767676571767217V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; NaTaO3; Zn"
+    },
+    {
+        "composition": "Na9Ta5Zn7O24",
+        "V_min": "0.7767676571767217V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; NaTaO3; Zn"
+    },
+    {
+        "composition": "Na51TaZn20O48",
+        "V_min": "0.3583009800702679V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; Na5TaO5; NaZn13"
+    },
+    {
+        "composition": "Na9TaZn5O12",
+        "V_min": "0.620386996181354V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na5TaO5; NaZn13; Na2Zn2O3"
+    },
+    {
+        "composition": "Na4Ta2ZnO8",
+        "V_min": "0.7767676571767217V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; NaTaO3; Zn"
+    },
+    {
+        "composition": "Na7TaZn2O8",
+        "V_min": "0.44554747562579067V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2ZnO2; Na5TaO5; NaZn13"
+    },
+    {
+        "composition": "Na18Ta4Zn5O24",
+        "V_min": "0.7767676571767217V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; Zn; ZnO"
+    },
+    {
+        "composition": "Na27TaZn8O24",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na5TaO5; NaZn13; Na6ZnO4"
+    },
+    {
+        "composition": "Na21Sc17(MoO12)4",
+        "V_min": "1.309141529051719V",
+        "V_max": "2.8604713696767234V",
+        "decomposition_products": "NaScO2; NaMoO2; Na2MoO4"
+    },
+    {
+        "composition": "Na9Sc11MoO24",
+        "V_min": "1.309141529051719V",
+        "V_max": "2.8604713696767234V",
+        "decomposition_products": "NaScO2; NaMoO2"
+    },
+    {
+        "composition": "Na4Sc2MoO8",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.8604713696767234V",
+        "decomposition_products": "Na4MoO5; NaScO2; NaMoO2"
+    },
+    {
+        "composition": "Na18Sc8MoO24",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaScO2; Na2O; Mo"
+    },
+    {
+        "composition": "Na7Ga5(SbO8)2",
+        "V_min": "1.452909244051719V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "Na2Sb4O7; Na3SbO4; NaGaO2"
+    },
+    {
+        "composition": "Na12Ga5SbO16",
+        "V_min": "0.8380213836350625V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na8Ga2O7; Na3SbO3; NaGaO2"
+    },
+    {
+        "composition": "Na8Ga3Sb3O16",
+        "V_min": "1.452909244051719V",
+        "V_max": "2.8711568815517223V",
+        "decomposition_products": "Na2Sb4O7; Na3SbO4; NaGaO2"
+    },
+    {
+        "composition": "Na6Ga7SbO16",
+        "V_min": "1.8807609346767233V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "Na2Sb4O7; NaSbO3; NaGaO2"
+    },
+    {
+        "composition": "Na7Sc5(SbO8)2",
+        "V_min": "1.4288668423329722V",
+        "V_max": "2.8604713696767208V",
+        "decomposition_products": "NaScO2; Na3SbO4; Na2Sb4O7"
+    },
+    {
+        "composition": "Na12Sc5SbO16",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; NaScO2; Na2O"
+    },
+    {
+        "composition": "Na8Sc3Sb3O16",
+        "V_min": "1.452909244051719V",
+        "V_max": "2.8711568815517223V",
+        "decomposition_products": "Na3SbO4; Na2Sb4O7; Sc2O3"
+    },
+    {
+        "composition": "Na6Sc7SbO16",
+        "V_min": "1.4288668423329722V",
+        "V_max": "2.8604713696767208V",
+        "decomposition_products": "NaScO2; Na3SbO4; Na2Sb4O7"
+    },
+    {
+        "composition": "Na21Ga17(MoO12)4",
+        "V_min": "1.9160421765517166V",
+        "V_max": "3.2134382340517256V",
+        "decomposition_products": "Na2MoO4; NaGaO2; MoO2"
+    },
+    {
+        "composition": "Na18Ga8MoO24",
+        "V_min": "0.5496001271072788V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na8Ga2O7; NaGaO2; Mo"
+    },
+    {
+        "composition": "Na4Ga2MoO8",
+        "V_min": "0.9109011448850486V",
+        "V_max": "3.2134382340517256V",
+        "decomposition_products": "NaMoO2; Na4MoO5; NaGaO2"
+    },
+    {
+        "composition": "Na9Ga11MoO24",
+        "V_min": "1.9160421765517166V",
+        "V_max": "3.2134382340517256V",
+        "decomposition_products": "NaGaO2; MoO2"
+    },
+    {
+        "composition": "Na2ZnO2",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaZn13"
+    },
+    {
+        "composition": "Na7La3O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na11La7O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na11Y7O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Y3O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na5MgGa3O8",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na8Ga2O7; Na7Ga13; MgO"
+    },
+    {
+        "composition": "Na13Mg2Ga5O16",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na8Ga2O7; Na7Ga13; MgO"
+    },
+    {
+        "composition": "Na9Mg2GaO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3MgGaO4",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na8Ga2O7; Na7Ga13; MgO"
+    },
+    {
+        "composition": "Na17Mg6GaO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na12Ca7MoO16",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; Mo"
+    },
+    {
+        "composition": "Na8Ca3Mo3O16",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.5024907065517175V",
+        "decomposition_products": "NaMoO2; Na4MoO5; CaO"
+    },
+    {
+        "composition": "Na28Ca9Mo3O32",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; Mo"
+    },
+    {
+        "composition": "Na28Ca17Mo11O64",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.5024907065517175V",
+        "decomposition_products": "NaMoO2; Na4MoO5; CaO"
+    },
+    {
+        "composition": "Na68Ca27MoO64",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; Mo"
+    },
+    {
+        "composition": "Na12Ca11Mo5O32",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.5024907065517175V",
+        "decomposition_products": "NaMoO2; Na4MoO5; CaO"
+    },
+    {
+        "composition": "Na6Ca2MoO8",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; Mo"
+    },
+    {
+        "composition": "Na36Ca11MoO32",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; Mo"
+    },
+    {
+        "composition": "Na52Ca23Mo5O64",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; Mo"
+    },
+    {
+        "composition": "Na44Ca21Mo7O64",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; Mo"
+    },
+    {
+        "composition": "Na20Ca13Mo3O32",
+        "V_min": "0.2280198048850568V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; Mo"
+    },
+    {
+        "composition": "Na12La5NbO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6La7NbO16",
+        "V_min": "-0.0V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7La5Nb2O16",
+        "V_min": "-0.0V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na8La3Nb3O16",
+        "V_min": "0.4687489323850491V",
+        "V_max": "2.7271587962739403V",
+        "decomposition_products": "NaNbO2; Na3NbO4; La2O3"
+    },
+    {
+        "composition": "Na14In3Ga3O16",
+        "V_min": "0.4869098309961686V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "NaInO2; Na8Ga2O7; In"
+    },
+    {
+        "composition": "Na22In7Ga7O32",
+        "V_min": "0.4869098309961686V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "NaInO2; Na8Ga2O7; In"
+    },
+    {
+        "composition": "Na8Ta3In3O16",
+        "V_min": "0.7761299140517222V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; NaInO2; In"
+    },
+    {
+        "composition": "Na7Ta2In5O16",
+        "V_min": "0.7761299140517222V",
+        "V_max": "2.949618854051722V",
+        "decomposition_products": "Na5TaO5; NaInO2; In"
+    },
+    {
+        "composition": "Na6TaIn7O16",
+        "V_min": "1.2853993598850553V",
+        "V_max": "2.949618854051722V",
+        "decomposition_products": "NaTaO3; NaInO2; In"
+    },
+    {
+        "composition": "Na12TaIn5O16",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183889V",
+        "decomposition_products": "Na5InO4; Na5TaO5; In"
+    },
+    {
+        "composition": "Na9Mg7Ta5O24",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; MgO; Ta"
+    },
+    {
+        "composition": "Na39Mg16Ta5O48",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na33Mg14Ta7O48",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; MgO; Ta"
+    },
+    {
+        "composition": "Na4MgTa2O8",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; MgO; Ta"
+    },
+    {
+        "composition": "Na51Mg20TaO48",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18Mg5Ta4O24",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; MgO; Ta"
+    },
+    {
+        "composition": "Na27Mg8TaO24",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Mg2TaO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Mg5TaO12",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na21Mg10Ta11O48",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; MgO; Ta"
+    },
+    {
+        "composition": "Na5Mg3TaO8",
+        "V_min": "-0.0V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na26Ca9Ti5O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na22Ca7Ti7O32",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na14Ca3Ti3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6CaTi2O8",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18Ca5TiO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na10Ca5Ti3O16",
+        "V_min": "-0.0V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Ca3Ti5O16",
+        "V_min": "0.013931186864217349V",
+        "V_max": "2.673667141968389V",
+        "decomposition_products": "Na8Ti5O14; CaO; TiO"
+    },
+    {
+        "composition": "Na6Ca3TiO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na14Ca3Ti11O32",
+        "V_min": "0.013931186864217349V",
+        "V_max": "2.673667141968389V",
+        "decomposition_products": "Na8Ti5O14; CaO; TiO"
+    },
+    {
+        "composition": "Na34Ca13TiO32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6La2SnO8",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.756200000718395V",
+        "decomposition_products": "NaLaO2; Na4SnO3; Na2O"
+    },
+    {
+        "composition": "Na7La3(SnO4)4",
+        "V_min": "1.036187397645475V",
+        "V_max": "2.7635994343642256V",
+        "decomposition_products": "Na2SnO3; La2O3; Sn"
+    },
+    {
+        "composition": "Na3La3SnO8",
+        "V_min": "0.6064796849892211V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": "NaLaO2; Na2SnO3; Sn"
+    },
+    {
+        "composition": "Na22Y7Ga7O32",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "NaYO2; Na7Ga13; Na8Ga2O7"
+    },
+    {
+        "composition": "Na14Y3Ga3O16",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "NaYO2; Na7Ga13; Na8Ga2O7"
+    },
+    {
+        "composition": "Na7Ti4Ga3O16",
+        "V_min": "1.0491624265517239V",
+        "V_max": "3.0083542965517243V",
+        "decomposition_products": "NaGaO2; Na8Ti5O14; Ga"
+    },
+    {
+        "composition": "Na6Ti(GaO4)2",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": "Na4TiO4; Na7Ga13; Na8Ga2O7"
+    },
+    {
+        "composition": "Na3TiGa3O8",
+        "V_min": "1.3226076765517243V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "Na2Ti6O13; NaGaO2; Ga"
+    },
+    {
+        "composition": "Na9In11WO24",
+        "V_min": "1.342354664051718V",
+        "V_max": "2.9496188540517227V",
+        "decomposition_products": "NaInO2; Na2WO4; W"
+    },
+    {
+        "composition": "Na18In8WO24",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183889V",
+        "decomposition_products": "Na5InO4; Na4WO5; In"
+    },
+    {
+        "composition": "Na4In2WO8",
+        "V_min": "1.3322771840517131V",
+        "V_max": "2.9496188540517227V",
+        "decomposition_products": "NaInO2; Na4WO5; W"
+    },
+    {
+        "composition": "Na21In17(WO12)4",
+        "V_min": "1.342354664051718V",
+        "V_max": "2.9496188540517227V",
+        "decomposition_products": "NaInO2; Na2WO4; W"
+    },
+    {
+        "composition": "Na21La17(WO12)4",
+        "V_min": "0.5573886538433863V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": "NaLaO2; Na4WO5; W"
+    },
+    {
+        "composition": "Na4La2WO8",
+        "V_min": "0.5573886538433863V",
+        "V_max": "2.6520461178017296V",
+        "decomposition_products": "NaLaO2; Na4WO5; W"
+    },
+    {
+        "composition": "Na9La11WO24",
+        "V_min": "0.5573886538433863V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": "NaLaO2; Na4WO5; W"
+    },
+    {
+        "composition": "Na18La8WO24",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaLaO2; Na2O; W"
+    },
+    {
+        "composition": "Na14La3In3O16",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; NaLaO2; In"
+    },
+    {
+        "composition": "Na22La7In7O32",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; NaLaO2; In"
+    },
+    {
+        "composition": "Na7Y5(SbO8)2",
+        "V_min": "1.0847483584267261V",
+        "V_max": "2.5500741740517245V",
+        "decomposition_products": "NaYO2; Na3SbO3"
+    },
+    {
+        "composition": "Na8Y3Sb3O16",
+        "V_min": "1.2954904721767149V",
+        "V_max": "2.798255973426719V",
+        "decomposition_products": "Na3SbO4; Y3Sb5O12; Y2O3"
+    },
+    {
+        "composition": "Na12Y5SbO16",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaYO2; Na3SbO3; Na2O"
+    },
+    {
+        "composition": "Na6Y7SbO16",
+        "V_min": "1.0847483584267261V",
+        "V_max": "2.5500741740517245V",
+        "decomposition_products": "NaYO2; Na3SbO3; Y2O3"
+    },
+    {
+        "composition": "Na17LaMg6O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na5La3MgO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na13La5Mg2O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9LaMg2O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3LaMgO4",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na13Zn2In5O16",
+        "V_min": "0.3232417621535739V",
+        "V_max": "1.8320308932183889V",
+        "decomposition_products": "Na5InO4; NaZn13; NaInO2"
+    },
+    {
+        "composition": "Na5ZnIn3O8",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaZn13; NaInO2"
+    },
+    {
+        "composition": "Na17Zn6InO16",
+        "V_min": "0.3232417621535739V",
+        "V_max": "1.8320308932183889V",
+        "decomposition_products": "Na10Zn4O9; Na5InO4; NaZn13"
+    },
+    {
+        "composition": "Na9Zn2InO8",
+        "V_min": "0.3232417621535739V",
+        "V_max": "1.8320308932183889V",
+        "decomposition_products": "Na10Zn4O9; Na5InO4; NaZn13"
+    },
+    {
+        "composition": "Na3ZnInO4",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaZn13; NaInO2"
+    },
+    {
+        "composition": "Na5CaSc3O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na17Ca6ScO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Ca2ScO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3CaScO4",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na13Ca2Sc5O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na8Nb3In3O16",
+        "V_min": "1.264049761551725V",
+        "V_max": "2.933606655301724V",
+        "decomposition_products": "Na3NbO4; NaInO2; In"
+    },
+    {
+        "composition": "Na7Nb2In5O16",
+        "V_min": "1.264049761551725V",
+        "V_max": "2.949618854051722V",
+        "decomposition_products": "Na3NbO4; NaInO2; In"
+    },
+    {
+        "composition": "Na12NbIn5O16",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183889V",
+        "decomposition_products": "Na5NbO5; Na5InO4; In"
+    },
+    {
+        "composition": "Na6NbIn7O16",
+        "V_min": "1.2853993598850553V",
+        "V_max": "2.949618854051722V",
+        "decomposition_products": "NaInO2; NaNbO3; In"
+    },
+    {
+        "composition": "Na4Zr3O8",
+        "V_min": "0.08323062505172696V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "Na2ZrO3; Zr3O"
+    },
+    {
+        "composition": "Na21Mg10Nb11O48",
+        "V_min": "0.8753779453017223V",
+        "V_max": "2.933606655301724V",
+        "decomposition_products": "NaNbO2; Na3NbO4; MgO"
+    },
+    {
+        "composition": "Na18Mg5Nb4O24",
+        "V_min": "-0.0V",
+        "V_max": "1.9043881557183993V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na27Mg8NbO24",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na33Mg14Nb7O48",
+        "V_min": "-0.0V",
+        "V_max": "1.9043881557183993V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Mg2NbO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na39Mg16Nb5O48",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Mg5NbO12",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na9Mg7Nb5O24",
+        "V_min": "0.8753779453017223V",
+        "V_max": "2.933606655301724V",
+        "decomposition_products": "NaNbO2; Na3NbO4; MgO"
+    },
+    {
+        "composition": "Na5Mg3NbO8",
+        "V_min": "-0.0V",
+        "V_max": "1.9043881557183993V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na51Mg20NbO48",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na4MgNb2O8",
+        "V_min": "0.8753779453017223V",
+        "V_max": "2.933606655301724V",
+        "decomposition_products": "NaNbO2; Na3NbO4; MgO"
+    },
+    {
+        "composition": "Na6Hf5Zn3O16",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaZn13; HfO2"
+    },
+    {
+        "composition": "Na10Hf3Zn5O16",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaZn13; HfO2"
+    },
+    {
+        "composition": "Na18HfZn5O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na2Hf2O5; Na6ZnO4; NaZn13"
+    },
+    {
+        "composition": "Na22Hf7Zn7O32",
+        "V_min": "0.27769296340359606V",
+        "V_max": "1.7899858482184163V",
+        "decomposition_products": "Na10Zn4O9; Na2Hf2O5; NaZn13"
+    },
+    {
+        "composition": "Na26Hf5Zn9O32",
+        "V_min": "0.27769296340359606V",
+        "V_max": "1.7899858482184163V",
+        "decomposition_products": "Na10Zn4O9; Na2Hf2O5; NaZn13"
+    },
+    {
+        "composition": "Na6HfZn3O8",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaZn13; HfO2"
+    },
+    {
+        "composition": "Na6Hf2ZnO8",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na2Hf2O5; Na6ZnO4; NaZn13"
+    },
+    {
+        "composition": "Na14Hf3Zn3O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na2Hf2O5; Na6ZnO4; NaZn13"
+    },
+    {
+        "composition": "Na34HfZn13O32",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na2Hf2O5; Na6ZnO4; NaZn13"
+    },
+    {
+        "composition": "Na14Hf11Zn3O32",
+        "V_min": "0.27769296340359606V",
+        "V_max": "1.7899858482184163V",
+        "decomposition_products": "Na10Zn4O9; Na2Hf2O5; NaZn13"
+    },
+    {
+        "composition": "Na10Mg5Sn3O16",
+        "V_min": "0.40987813530172423V",
+        "V_max": "1.756200000718395V",
+        "decomposition_products": "Na4SnO4; Na4SnO3; MgO"
+    },
+    {
+        "composition": "Na6Mg3Sn5O16",
+        "V_min": "1.5286950659267264V",
+        "V_max": "3.0572005003017244V",
+        "decomposition_products": "Sn5O6; Mg2SnO4; Na2SnO3"
+    },
+    {
+        "composition": "Na6Mg(SnO4)2",
+        "V_min": "0.40987813530172423V",
+        "V_max": "1.756200000718395V",
+        "decomposition_products": "Na4SnO4; Na4SnO3; MgO"
+    },
+    {
+        "composition": "Na14Mg3Sn11O32",
+        "V_min": "1.5286950659267264V",
+        "V_max": "3.0572005003017244V",
+        "decomposition_products": "Sn5O6; Mg2SnO4; Na2SnO3"
+    },
+    {
+        "composition": "Na14Mg3Sn3O16",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na4SnO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na26Mg9Sn5O32",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na4SnO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na22Mg7Sn7O32",
+        "V_min": "0.40987813530172423V",
+        "V_max": "1.756200000718395V",
+        "decomposition_products": "Na4SnO4; Na4SnO3; MgO"
+    },
+    {
+        "composition": "Na6Mg3SnO8",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na4SnO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na18Mg5SnO16",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na4SnO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na34Mg13SnO32",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na4SnO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na36Mg11WO32",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; W"
+    },
+    {
+        "composition": "Na8Mg3W3O16",
+        "V_min": "1.3322771840517131V",
+        "V_max": "2.942060744051717V",
+        "decomposition_products": "Na4WO5; MgO; W"
+    },
+    {
+        "composition": "Na44Mg21W7O64",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; W"
+    },
+    {
+        "composition": "Na68Mg27WO64",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; W"
+    },
+    {
+        "composition": "Na52Mg23W5O64",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; W"
+    },
+    {
+        "composition": "Na20Mg13W3O32",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; W"
+    },
+    {
+        "composition": "Na12Mg7WO16",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; W"
+    },
+    {
+        "composition": "Na28Mg9W3O32",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; W"
+    },
+    {
+        "composition": "Na6Mg2WO8",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; MgO; W"
+    },
+    {
+        "composition": "Na28Mg17W11O64",
+        "V_min": "1.3322771840517131V",
+        "V_max": "2.942060744051717V",
+        "decomposition_products": "Na4WO5; MgO; W"
+    },
+    {
+        "composition": "Na12Mg11W5O32",
+        "V_min": "1.3322771840517131V",
+        "V_max": "2.942060744051717V",
+        "decomposition_products": "Na4WO5; MgO; W"
+    },
+    {
+        "composition": "Na8Ca3Te3O16",
+        "V_min": "1.4222819328017196V",
+        "V_max": "3.0542824821767223V",
+        "decomposition_products": "Na4TeO5; Na2TeO3; CaO"
+    },
+    {
+        "composition": "Na6Ca2TeO8",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; CaO"
+    },
+    {
+        "composition": "Na12Ca11Te5O32",
+        "V_min": "1.4222819328017196V",
+        "V_max": "2.5952902298850544V",
+        "decomposition_products": "Na4TeO5; Na2TeO3; CaO"
+    },
+    {
+        "composition": "Na20Ca13Te3O32",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; CaO"
+    },
+    {
+        "composition": "Na44Ca21Te7O64",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; CaO"
+    },
+    {
+        "composition": "Na12Ca7TeO16",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; CaO"
+    },
+    {
+        "composition": "Na52Ca23Te5O64",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; CaO"
+    },
+    {
+        "composition": "Na28Ca17Te11O64",
+        "V_min": "1.4222819328017196V",
+        "V_max": "2.5952902298850544V",
+        "decomposition_products": "Na4TeO5; Na2TeO3; CaO"
+    },
+    {
+        "composition": "Na28Ca9Te3O32",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; CaO"
+    },
+    {
+        "composition": "Na36Ca11TeO32",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; CaO"
+    },
+    {
+        "composition": "Na68Ca27TeO64",
+        "V_min": "0.7470180678017242V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; Na2Te; CaO"
+    },
+    {
+        "composition": "Na26Ca9Zr5O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na22Ca7Zr7O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Ca3Zr5O16",
+        "V_min": "-0.0V",
+        "V_max": "2.7445696778017243V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na10Ca5Zr3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18Ca5ZrO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6CaZr2O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Ca3ZrO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na14Ca3Zr3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na14Ca3Zr11O32",
+        "V_min": "0.08323062505172696V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "CaZrO3; Na2ZrO3; Zr3O"
+    },
+    {
+        "composition": "Na34Ca13ZrO32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7In3(SnO4)4",
+        "V_min": "1.7757711628017259V",
+        "V_max": "3.0572005003017244V",
+        "decomposition_products": "In15SnO24; SnO2; Na2SnO3"
+    },
+    {
+        "composition": "Na3In3SnO8",
+        "V_min": "1.4530262240517209V",
+        "V_max": "2.9496188540517227V",
+        "decomposition_products": "In15SnO24; NaInO2; Na2SnO3"
+    },
+    {
+        "composition": "Na6In2SnO8",
+        "V_min": "0.409878135301724V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; Na4SnO3; NaInO2"
+    },
+    {
+        "composition": "Na8La3Ta3O16",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "NaLa2TaO6; Na5TaO5; Ta"
+    },
+    {
+        "composition": "Na6La7TaO16",
+        "V_min": "-0.0V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7La5Ta2O16",
+        "V_min": "-0.0V",
+        "V_max": "2.3390288913433857V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na12La5TaO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na7Zr4Ga3O16",
+        "V_min": "0.9011995832183934V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "NaGaO2; Na2ZrO3; Ga"
+    },
+    {
+        "composition": "Na3ZrGa3O8",
+        "V_min": "0.9011995832183934V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "NaGaO2; Na2ZrO3; Ga"
+    },
+    {
+        "composition": "Na6Zr(GaO4)2",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na7Ga13; Na2ZrO3; Na8Ga2O7"
+    },
+    {
+        "composition": "Na9Ga11TeO24",
+        "V_min": "2.293228350301723V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "Na2TeO3; NaGaO2; Ga2O3"
+    },
+    {
+        "composition": "Na4Ga2TeO8",
+        "V_min": "2.2680654490517203V",
+        "V_max": "3.0794453834267257V",
+        "decomposition_products": "Na4TeO5; Na2TeO3; NaGaO2"
+    },
+    {
+        "composition": "Na18Ga8TeO24",
+        "V_min": "0.9882033094683915V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na8Ga2O7; NaGaO2; Na2Te"
+    },
+    {
+        "composition": "Na21Ga17(TeO12)4",
+        "V_min": "2.293228350301723V",
+        "V_max": "3.0794453834267257V",
+        "decomposition_products": "Na2TeO3; NaGaO2; Na2TeO4"
+    },
+    {
+        "composition": "Na6Y2SnO8",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.756200000718395V",
+        "decomposition_products": "NaYO2; Na4SnO3; Na2O"
+    },
+    {
+        "composition": "Na3Y3SnO8",
+        "V_min": "0.7870062693642235V",
+        "V_max": "2.550074174051721V",
+        "decomposition_products": "NaYO2; Na2SnO3; Sn"
+    },
+    {
+        "composition": "Na7Y3(SnO4)4",
+        "V_min": "1.2340776979579753V",
+        "V_max": "2.8955263012392267V",
+        "decomposition_products": "Na2SnO3; Y2O3; Sn"
+    },
+    {
+        "composition": "Na6Sc7TaO16",
+        "V_min": "0.36390426780172036V",
+        "V_max": "2.8604713696767234V",
+        "decomposition_products": "NaScO2; NaTaO3; Ta"
+    },
+    {
+        "composition": "Na7Sc5Ta2O16",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.8604713696767234V",
+        "decomposition_products": "Na5TaO5; NaScO2; Ta"
+    },
+    {
+        "composition": "Na12Sc5TaO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na8Sc3Ta3O16",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "Na5TaO5; NaScO2; Ta"
+    },
+    {
+        "composition": "Na6Zn2MoO8",
+        "V_min": "0.4528092262739394V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2ZnO2; Zn6Mo; Na4MoO5"
+    },
+    {
+        "composition": "Na12Zn11Mo5O32",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.5024907065517175V",
+        "decomposition_products": "ZnO; NaMoO2; Na4MoO5"
+    },
+    {
+        "composition": "Na52Zn23Mo5O64",
+        "V_min": "0.4528092262739394V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Zn6Mo; Na4MoO5"
+    },
+    {
+        "composition": "Na44Zn21Mo7O64",
+        "V_min": "0.6420715673850572V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; Na4MoO5; Mo"
+    },
+    {
+        "composition": "Na20Zn13Mo3O32",
+        "V_min": "0.6420715673850572V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; Na4MoO5; Mo"
+    },
+    {
+        "composition": "Na28Zn17Mo11O64",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.5024907065517175V",
+        "decomposition_products": "ZnO; NaMoO2; Na4MoO5"
+    },
+    {
+        "composition": "Na12Zn7MoO16",
+        "V_min": "0.4528092262739394V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Zn6Mo; Na4MoO5"
+    },
+    {
+        "composition": "Na8Zn3Mo3O16",
+        "V_min": "0.9109011448850486V",
+        "V_max": "2.5024907065517175V",
+        "decomposition_products": "ZnO; NaMoO2; Na4MoO5"
+    },
+    {
+        "composition": "Na28Zn9Mo3O32",
+        "V_min": "0.4528092262739394V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Zn6Mo; Na4MoO5"
+    },
+    {
+        "composition": "Na36Zn11MoO32",
+        "V_min": "0.28657632928981536V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na10Zn4O9; Na6ZnO4; Mo"
+    },
+    {
+        "composition": "Na68Zn27MoO64",
+        "V_min": "0.36724054794063554V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; Zn6Mo; Na4MoO5"
+    },
+    {
+        "composition": "Na4CaMgO4",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na12In5SbO16",
+        "V_min": "0.7109792603017275V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; NaInO2; Na3SbO3"
+    },
+    {
+        "composition": "Na6In7SbO16",
+        "V_min": "1.5509867096767207V",
+        "V_max": "2.949618854051722V",
+        "decomposition_products": "NaInO2; NaSbO3; Na2Sb4O7"
+    },
+    {
+        "composition": "Na7In5(SbO8)2",
+        "V_min": "1.452909244051719V",
+        "V_max": "2.949618854051722V",
+        "decomposition_products": "Na3SbO4; NaInO2; Na2Sb4O7"
+    },
+    {
+        "composition": "Na8In3Sb3O16",
+        "V_min": "1.452909244051719V",
+        "V_max": "2.8711568815517223V",
+        "decomposition_products": "Na3SbO4; NaInO2; Na2Sb4O7"
+    },
+    {
+        "composition": "Na39Mg16Sb5O48",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na5Mg3SbO8",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na33Mg14Sb7O48",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na7Mg2SbO8",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na51Mg20SbO48",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na18Mg5(SbO6)4",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na9Mg7Sb5O24",
+        "V_min": "1.452909244051719V",
+        "V_max": "2.8711568815517223V",
+        "decomposition_products": "Na3SbO4; Na2Sb4O7; MgO"
+    },
+    {
+        "composition": "Na21Mg10Sb11O48",
+        "V_min": "1.452909244051719V",
+        "V_max": "2.8711568815517223V",
+        "decomposition_products": "Na3SbO4; Na2Sb4O7; MgO"
+    },
+    {
+        "composition": "Na4Mg(SbO4)2",
+        "V_min": "1.452909244051719V",
+        "V_max": "2.8711568815517223V",
+        "decomposition_products": "Na3SbO4; Na2Sb4O7; MgO"
+    },
+    {
+        "composition": "Na9Mg5SbO12",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na27Mg8SbO24",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na3SbO3; Na2O; MgO"
+    },
+    {
+        "composition": "Na8Hf3Sn3O16",
+        "V_min": "0.40987813530172423V",
+        "V_max": "1.7899858482184163V",
+        "decomposition_products": "Na2Hf2O5; Na4SnO3; HfO2"
+    },
+    {
+        "composition": "Na22Sc7Ga7O32",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "NaScO2; Na7Ga13; Na8Ga2O7"
+    },
+    {
+        "composition": "Na14Sc3Ga3O16",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "NaScO2; Na7Ga13; Na8Ga2O7"
+    },
+    {
+        "composition": "Na8Y3Nb3O16",
+        "V_min": "0.8204577740517258V",
+        "V_max": "2.906146569676725V",
+        "decomposition_products": "NaNbO2; Na3NbO4; Y2O3"
+    },
+    {
+        "composition": "Na6Y7NbO16",
+        "V_min": "0.20312199905171746V",
+        "V_max": "2.5500741740517228V",
+        "decomposition_products": "NaNbO2; NaYO2"
+    },
+    {
+        "composition": "Na7Y5Nb2O16",
+        "V_min": "0.20312199905171746V",
+        "V_max": "2.5500741740517228V",
+        "decomposition_products": "NaNbO2; NaYO2; Na3NbO4"
+    },
+    {
+        "composition": "Na12Y5NbO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6TiZn3O8",
+        "V_min": "0.6203869961813533V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; NaZn13; Na4TiO4"
+    },
+    {
+        "composition": "Na6Ti2ZnO8",
+        "V_min": "0.8754059732183885V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": "Na4TiO4; Zn"
+    },
+    {
+        "composition": "Na18TiZn5O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaZn13; Na4TiO4"
+    },
+    {
+        "composition": "Na6Ti5Zn3O16",
+        "V_min": "1.2174551840517258V",
+        "V_max": "3.008354296551726V",
+        "decomposition_products": "Na8Ti5O14; Zn; ZnO"
+    },
+    {
+        "composition": "Na10Ti3Zn5O16",
+        "V_min": "0.8754059732183885V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": "Na4TiO4; Zn; ZnO"
+    },
+    {
+        "composition": "Na14Ti11Zn3O32",
+        "V_min": "1.2174551840517258V",
+        "V_max": "3.008354296551726V",
+        "decomposition_products": "Na8Ti5O14; Zn; ZnO"
+    },
+    {
+        "composition": "Na34TiZn13O32",
+        "V_min": "0.358300980070261V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; NaZn13; Na4TiO4"
+    },
+    {
+        "composition": "Na26Ti5Zn9O32",
+        "V_min": "0.6203869961813533V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; NaZn13; Na4TiO4"
+    },
+    {
+        "composition": "Na22Ti7Zn7O32",
+        "V_min": "0.8754059732183885V",
+        "V_max": "2.6418427121072767V",
+        "decomposition_products": "Na4TiO4; Zn; ZnO"
+    },
+    {
+        "composition": "Na14Ti3Zn3O16",
+        "V_min": "0.6203869961813533V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; NaZn13; Na4TiO4"
+    },
+    {
+        "composition": "Na7Y5Ta2O16",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.550074174051721V",
+        "decomposition_products": "NaYO2; Na5TaO5; Ta"
+    },
+    {
+        "composition": "Na6Y7TaO16",
+        "V_min": "0.04831304280172177V",
+        "V_max": "2.550074174051721V",
+        "decomposition_products": "NaYO2; NaTaO3; Ta"
+    },
+    {
+        "composition": "Na12Y5TaO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na8Y3Ta3O16",
+        "V_min": "0.012538747801721373V",
+        "V_max": "2.5103249573850546V",
+        "decomposition_products": "NaYO2; Na5TaO5; Ta"
+    },
+    {
+        "composition": "Na7Sc3(SnO4)4",
+        "V_min": "1.5286950659267264V",
+        "V_max": "3.0572005003017244V",
+        "decomposition_products": "Sn5O6; Na2SnO3; Sc2O3"
+    },
+    {
+        "composition": "Na6Sc2SnO8",
+        "V_min": "0.3818875115517213V",
+        "V_max": "1.756200000718395V",
+        "decomposition_products": "NaScO2; Na4SnO3; Na2O"
+    },
+    {
+        "composition": "Na3Sc3SnO8",
+        "V_min": "1.1814953006142217V",
+        "V_max": "2.8604713696767226V",
+        "decomposition_products": "NaScO2; Na2SnO3; Sn"
+    },
+    {
+        "composition": "Na8Hf3Zr3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7899858482184163V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na3ScZnO4",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaScO2; NaZn13"
+    },
+    {
+        "composition": "Na5Sc3ZnO8",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; NaScO2; NaZn13"
+    },
+    {
+        "composition": "Na13Sc5Zn2O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaScO2; NaZn13"
+    },
+    {
+        "composition": "Na17ScZn6O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaScO2; NaZn13"
+    },
+    {
+        "composition": "Na9ScZn2O8",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaScO2; NaZn13"
+    },
+    {
+        "composition": "Na5CaIn3O8",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; CaO; In"
+    },
+    {
+        "composition": "Na13Ca2In5O16",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; CaO; In"
+    },
+    {
+        "composition": "Na3CaInO4",
+        "V_min": "0.31752033321839024V",
+        "V_max": "1.8320308932183893V",
+        "decomposition_products": "Na5InO4; CaO; In"
+    },
+    {
+        "composition": "Na9Ca2InO8",
+        "V_min": "0.17393995655172367V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaIn; Na2O; CaO"
+    },
+    {
+        "composition": "Na17Ca6InO16",
+        "V_min": "0.17393995655172367V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaIn; Na2O; CaO"
+    },
+    {
+        "composition": "Na28Zn9W3O32",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; NaZn13; Na4WO5"
+    },
+    {
+        "composition": "Na6Zn2WO8",
+        "V_min": "0.4455474756257931V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2ZnO2; NaZn13; Na4WO5"
+    },
+    {
+        "composition": "Na20Zn13W3O32",
+        "V_min": "0.6203869961813502V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; NaZn13; Na4WO5"
+    },
+    {
+        "composition": "Na8Zn3W3O16",
+        "V_min": "1.3322771840517131V",
+        "V_max": "2.942060744051717V",
+        "decomposition_products": "ZnO; Na4WO5; W"
+    },
+    {
+        "composition": "Na28Zn17W11O64",
+        "V_min": "1.3322771840517131V",
+        "V_max": "2.942060744051717V",
+        "decomposition_products": "ZnO; Na4WO5; W"
+    },
+    {
+        "composition": "Na12Zn11W5O32",
+        "V_min": "1.3322771840517131V",
+        "V_max": "2.942060744051717V",
+        "decomposition_products": "ZnO; Na4WO5; W"
+    },
+    {
+        "composition": "Na52Zn23W5O64",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; NaZn13; Na4WO5"
+    },
+    {
+        "composition": "Na68Zn27WO64",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; NaZn13; Na4WO5"
+    },
+    {
+        "composition": "Na12Zn7WO16",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; NaZn13; Na4WO5"
+    },
+    {
+        "composition": "Na36Zn11WO32",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; NaZn13; Na4WO5"
+    },
+    {
+        "composition": "Na44Zn21W7O64",
+        "V_min": "0.6203869961813502V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; NaZn13; Na4WO5"
+    },
+    {
+        "composition": "Na14Y3Sc3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na22Y7Sc7O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na8Ti3Sn3O16",
+        "V_min": "1.5286950659267264V",
+        "V_max": "3.0572005003017244V",
+        "decomposition_products": "Na4Ti5O12; Sn5O6; Na2SnO3"
+    },
+    {
+        "composition": "Na22La7Sc7O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na14La3Sc3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na52Ca23W5O64",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; W"
+    },
+    {
+        "composition": "Na6Ca2WO8",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; W"
+    },
+    {
+        "composition": "Na28Ca17W11O64",
+        "V_min": "0.783987900718383V",
+        "V_max": "2.5708854965517176V",
+        "decomposition_products": "Na4WO5; CaO; W"
+    },
+    {
+        "composition": "Na28Ca9W3O32",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; W"
+    },
+    {
+        "composition": "Na20Ca13W3O32",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; W"
+    },
+    {
+        "composition": "Na8Ca3W3O16",
+        "V_min": "0.783987900718383V",
+        "V_max": "2.942060744051717V",
+        "decomposition_products": "Na4WO5; CaO; W"
+    },
+    {
+        "composition": "Na12Ca11W5O32",
+        "V_min": "0.783987900718383V",
+        "V_max": "2.5708854965517176V",
+        "decomposition_products": "Na4WO5; CaO; W"
+    },
+    {
+        "composition": "Na36Ca11WO32",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; W"
+    },
+    {
+        "composition": "Na44Ca21W7O64",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; W"
+    },
+    {
+        "composition": "Na68Ca27WO64",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; W"
+    },
+    {
+        "composition": "Na12Ca7WO16",
+        "V_min": "0.02518180071839171V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "Na2O; CaO; W"
+    },
+    {
+        "composition": "Na3HfGa3O8",
+        "V_min": "0.22262532809157953V",
+        "V_max": "3.213438234051724V",
+        "decomposition_products": "Na7Ga13; Na8Ga2O7; HfO2"
+    },
+    {
+        "composition": "Na6Hf(GaO4)2",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na7Ga13; Na8Ga2O7; HfO2"
+    },
+    {
+        "composition": "Na7Hf4Ga3O16",
+        "V_min": "0.22262532809157953V",
+        "V_max": "2.086115139885055V",
+        "decomposition_products": "Na7Ga13; Na8Ga2O7; HfO2"
+    },
+    {
+        "composition": "Na6La7SbO16",
+        "V_min": "0.9643973021767247V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": "NaLaO2; Na3SbO3; La2O3"
+    },
+    {
+        "composition": "Na8La3Sb3O16",
+        "V_min": "1.1597920567600617V",
+        "V_max": "2.6501324384961684V",
+        "decomposition_products": "Na3SbO4; Na3SbO3; La2O3"
+    },
+    {
+        "composition": "Na12La5SbO16",
+        "V_min": "0.6450731903017277V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": "NaLaO2; Na3SbO3; Na2O"
+    },
+    {
+        "composition": "Na7La5(SbO8)2",
+        "V_min": "0.9643973021767247V",
+        "V_max": "2.3388669769683803V",
+        "decomposition_products": "NaLaO2; Na3SbO3"
+    },
+    {
+        "composition": "Na18ZrZn5O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; Na2ZrO3; NaZn13"
+    },
+    {
+        "composition": "Na10Zr3Zn5O16",
+        "V_min": "0.620386996181354V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; Na2ZrO3; NaZn13"
+    },
+    {
+        "composition": "Na6Zr5Zn3O16",
+        "V_min": "1.1064830515517252V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "Na2ZrO3; Zn; ZnO"
+    },
+    {
+        "composition": "Na14Zr11Zn3O32",
+        "V_min": "1.1064830515517252V",
+        "V_max": "2.8973821640517246V",
+        "decomposition_products": "Na2ZrO3; ZrO2; Zn"
+    },
+    {
+        "composition": "Na34ZrZn13O32",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; Na2ZrO3; NaZn13"
+    },
+    {
+        "composition": "Na6ZrZn3O8",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZrO3; Na2ZnO2; NaZn13"
+    },
+    {
+        "composition": "Na14Zr3Zn3O16",
+        "V_min": "0.25656875887976294V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na6ZnO4; Na2ZrO3; NaZn13"
+    },
+    {
+        "composition": "Na22Zr7Zn7O32",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZrO3; Na2ZnO2; NaZn13"
+    },
+    {
+        "composition": "Na26Zr5Zn9O32",
+        "V_min": "0.4455474756257931V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZrO3; Na2ZnO2; NaZn13"
+    },
+    {
+        "composition": "Na6Zr2ZnO8",
+        "V_min": "0.358300980070265V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na10Zn4O9; Na2ZrO3; NaZn13"
+    },
+    {
+        "composition": "Na28Zn9Te3O32",
+        "V_min": "0.9062534584267172V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Na4TeO5; Na2Te"
+    },
+    {
+        "composition": "Na52Zn23Te5O64",
+        "V_min": "0.9062534584267172V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Na4TeO5; Na2Te"
+    },
+    {
+        "composition": "Na44Zn21Te7O64",
+        "V_min": "1.057556889676725V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; Na4TeO5; Na2Te"
+    },
+    {
+        "composition": "Na68Zn27TeO64",
+        "V_min": "0.849627127176739V",
+        "V_max": "1.8643932482184111V",
+        "decomposition_products": "Na10Zn4O9; Na4TeO5; Na2Te"
+    },
+    {
+        "composition": "Na6Zn2TeO8",
+        "V_min": "0.9062534584267172V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2ZnO2; Na4TeO5; Na2Te"
+    },
+    {
+        "composition": "Na20Zn13Te3O32",
+        "V_min": "1.057556889676725V",
+        "V_max": "2.19708086821839V",
+        "decomposition_products": "Na2Zn2O3; Na4TeO5; Na2Te"
+    },
+    {
+        "composition": "Na28Zn17Te11O64",
+        "V_min": "2.2680654490517203V",
+        "V_max": "3.0542824821767223V",
+        "decomposition_products": "Na4TeO5; Na2TeO3; ZnO"
+    },
+    {
+        "composition": "Na12Zn7TeO16",
+        "V_min": "0.9062534584267172V",
+        "V_max": "1.9549953782183824V",
+        "decomposition_products": "Na2ZnO2; Na4TeO5; Na2Te"
+    },
+    {
+        "composition": "Na12Zn11Te5O32",
+        "V_min": "2.2680654490517203V",
+        "V_max": "3.0542824821767223V",
+        "decomposition_products": "Na4TeO5; Na2TeO3; ZnO"
+    },
+    {
+        "composition": "Na8Zn3Te3O16",
+        "V_min": "2.2680654490517203V",
+        "V_max": "3.0542824821767223V",
+        "decomposition_products": "Na4TeO5; Na2TeO3; ZnO"
+    },
+    {
+        "composition": "Na36Zn11TeO32",
+        "V_min": "0.7909354611052943V",
+        "V_max": "1.7704865825041003V",
+        "decomposition_products": "Na10Zn4O9; Na6ZnO4; Na2Te"
+    },
+    {
+        "composition": "Na14Ca3Hf11O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6CaHf2O8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Ca3Hf5O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na10Ca5Hf3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na6Ca3HfO8",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na14Ca3Hf3O16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na22Ca7Hf7O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na26Ca9Hf5O32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na18Ca5HfO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na34Ca13HfO32",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na12Sc5NbO16",
+        "V_min": "-0.0V",
+        "V_max": "1.7002187532183892V",
+        "decomposition_products": null
+    },
+    {
+        "composition": "Na8Sc3Nb3O16",
+        "V_min": "0.8753779453017223V",
+        "V_max": "2.933606655301724V",
+        "decomposition_products": "NaNbO2; Na3NbO4; Sc2O3"
+    },
+    {
+        "composition": "Na7Sc5Nb2O16",
+        "V_min": "0.7291073740517191V",
+        "V_max": "2.8604713696767226V",
+        "decomposition_products": "NaScO2; NaNbO2; Na3NbO4"
+    },
+    {
+        "composition": "Na6Sc7NbO16",
+        "V_min": "0.7291073740517191V",
+        "V_max": "2.8604713696767226V",
+        "decomposition_products": "NaScO2; NaNbO2"
+    }
+]
